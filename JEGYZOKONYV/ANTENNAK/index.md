@@ -27,13 +27,9 @@ A mérés célja :
 
 - ### 3. **Mérési paraméterek**
 
-| Eszközök          | 1.helyszín(V3labor) | 2 helyszín(belső udvar) | 3. helyszín(hátsó udvar) |
-|---------------------|-------|
-|    |  |
-|   |  |
-|    |  |
-|    | [ |
-|       |  |
-|  |  |
-| |  |
-|  |  |
+
+| Antenna típusa |1. Vételi pont (dBm) | Vételi pont (dBm) | 3. Vételi pont (dBm) |
+|-------------------|--------------------|-------------------|-----------------------|
+| SMART HD 550      | -51.3 dBm        | -44.2 dBm         | -47.8 dBm             |
+| ISKRA p20 LOGPER  | -49.4 dBm        | -42.7 dBm         | -48.1 dBm             |
+| IKUSI FLASHD C48  | -41.9 dBm        | -50.9 dBm         | -45.9 dBm             |
