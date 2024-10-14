@@ -1,14 +1,14 @@
-A **DVB-T mérési jegyzőkönyv**
+A **Antenna mérési jegyzőkönyv**
 
 ---
 
-## DVB-T MÉRÉSI JEGYZŐKÖNYV
+## Antenna MÉRÉSI JEGYZŐKÖNYV
 
-**Mérés helye**: [Helyszín neve]  
-**Mérés időpontja**: [Dátum]  
-**Mérő műszerek**: [Műszer típusa, pl. Spectrum Analyzer, DVB-T vevő, stb.]  
-**Felelős személy**: [Név]  
-**Cél**: A DVB-T jel minőségi paramétereinek mérése.
+**Mérés helye**: 
+**Mérés időpontja**:
+**Mérő műszerek**:  
+**Felelős személy**:
+**Cél**: Antennák nyereségének mérése
 
 ---
 
