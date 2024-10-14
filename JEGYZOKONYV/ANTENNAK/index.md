@@ -1,4 +1,4 @@
-A **Antenna mérési jegyzőkönyv**
+**Antenna mérési jegyzőkönyv**
 
 ---
 
