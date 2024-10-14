@@ -2,7 +2,7 @@ A **Antenna mérési jegyzőkönyv**
 
 ---
 
-## Antenna MÉRÉSI JEGYZŐKÖNYV
+## ANTENNA MÉRÉSI JEGYZŐKÖNYV
 
 **Mérés helye**: 
 **Mérés időpontja**:
