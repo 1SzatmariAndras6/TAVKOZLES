@@ -27,7 +27,7 @@ A mérés célja :
 
 - ### 3. **Mérési paraméterek**
 
-| Eszközök          | 1.helyszín(V3labor) |
+| Eszközök          | 1.helyszín(V3labor) | 2 helyszín(belső udvar) | 3. helyszín(hátsó udvar) |
 |---------------------|-------|
 |    |  |
 |   |  |
