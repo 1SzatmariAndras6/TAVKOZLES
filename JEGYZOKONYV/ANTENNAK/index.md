@@ -28,4 +28,4 @@ A mérés célja :
 - ### 3. **Mérési paraméterek**
 
 |Műszerek|1.helyszín(V3 labor)| 2.helyszín(belső udvar)|3.helyszín(hátsó udvar)|
-||
+|-------------------------------------|----------------------------------------|
