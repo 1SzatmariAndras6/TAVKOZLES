@@ -73,7 +73,12 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 | IKUSI FLASHD C48      | -41.9 dBm               | -50.9 dBm                  | -45.9 dBm                   |
 
 ![Frekvencia](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0005.bmp)
-
+<details>
+   <summary>
+      spektrumanalizátor képe
+   </summary>
+   <img="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0006.bmp" alt="spektrum">
+</details>
 #### Megállapítások:
 
 1. **1. Vételi pont V3 labor**:
