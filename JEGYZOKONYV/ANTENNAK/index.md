@@ -72,26 +72,49 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 | ISKRA p20 LOGPER      | -49.4 dBm               | -42.7 dBm                  | -48.1 dBm                   |
 | IKUSI FLASHD C48      | -41.9 dBm               | -50.9 dBm                  | -45.9 dBm                   |
 
-## 10. P-20 Képek:
+## Mért képek:
 <details>
-    <summary>SMART HD 550 Antenna</summary>
+    <summary>SMART HD 550 Antenna:</summary>
    
-   **SMART HD 550:**
+   **SMART HD 550**
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0010.bmp"/>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0019.bmp"/>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0017.bmp"/>
     
 ---
 
+</details>
+
+<br>
 
 
-
- 
+<details>
+    <summary>ISKRA P20 LOGPER:</summary>
+   
+   **SISKRA P20 LOGPER**
+    <img src=""/>
+    <img src=""/>
+    <img src=""/>
+    
+---
 
 </details>
 
 <br>
 
+<details>
+    <summary>IKUSI FLASHHD C48:</summary>
+   
+   **IKUSI FLASHD C48**
+    <img src=""/>
+    <img src=""/>
+    <img src=""/>
+    
+---
+
+</details>
+
+<br>
 #### Megállapítások:
 
 1. **1. Vételi pont V3 labor**:
