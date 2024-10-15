@@ -1,5 +1,4 @@
 ---
-
 # ANTENNA MÉRÉSI JEGYZŐKÖNYV
 
 - **Mérés helye**: [V3 labor, belső udvar, háts udvar]
