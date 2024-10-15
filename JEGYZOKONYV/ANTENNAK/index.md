@@ -77,7 +77,7 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 | ISKRA p20 LOGPER      | -49.4 dBm               | -42.7 dBm                  | -48.1 dBm                   |
 | IKUSI FLASHD C48      | -41.9 dBm               | -50.9 dBm                  | -45.9 dBm                   |
 
-![Frekvencia]([file:///U:/pictures/m%C3%A9r%C3%A9si%20k%C3%B6nyv/its_snapshot_0004.bmp](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0005.bmp))
+![Frekvencia](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0005.bmp)
 
 #### Megállapítások:
 
