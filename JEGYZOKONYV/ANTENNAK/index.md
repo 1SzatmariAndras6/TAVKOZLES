@@ -1,5 +1,3 @@
-**Antenna mérési jegyzőkönyv**
-
 ---
 
 # ANTENNA MÉRÉSI JEGYZŐKÖNYV
