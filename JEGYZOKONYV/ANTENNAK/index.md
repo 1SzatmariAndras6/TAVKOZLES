@@ -78,6 +78,7 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 | IKUSI FLASHD C48      | -41.9 dBm               | -50.9 dBm                  | -45.9 dBm                   |
 
 ![Frekvencia](file:///U:/pictures/m%C3%A9r%C3%A9si%20k%C3%B6nyv/its_snapshot_0005.bmp)
+
 #### Megállapítások:
 
 1. **1. Vételi pont V3 labor**:
