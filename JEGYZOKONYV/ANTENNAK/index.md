@@ -74,7 +74,7 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 
 ## 10. P-20 Képek:
 <details>
-    <summary>Kattints!</summary>
+    <summary>SMART HD 550 Antenna</summary>
    
    **SMART HD 550:**
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0010.bmp"/>
@@ -82,6 +82,8 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0017.bmp"/>
     
 ---
+
+
 
 
  
