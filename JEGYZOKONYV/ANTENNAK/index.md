@@ -4,11 +4,11 @@
 
 # ANTENNA MÉRÉSI JEGYZŐKÖNYV
 
-**Mérés helye**: [V3 labor, belső udvar, háts udvar]
-**Mérés időpontja**: [2024.10.09]
-**Mérő műszerek**:  [METEK HDD]
-**Felelős személy**: [Szatmári András]
-**Cél**: [Antennák nyereségének meg mérése]
+- **Mérés helye**: [V3 labor, belső udvar, háts udvar]
+- **Mérés időpontja**: [2024.10.09]
+- **Mérő műszerek**:  [METEK HDD]
+- **Felelős személy**: [Szatmári András]
+- **Cél**: [Antennák nyereségének meg mérése]
 
 ---
 
