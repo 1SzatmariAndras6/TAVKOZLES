@@ -17,7 +17,6 @@ A mérés célja :
 Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségét három különböző vételi ponton. A mérések során a METEK HD spektrum/jelszint analizátor segítségével mérjük a jelszintet, majd értékeljük az antennák teljesítményét.
 
 
-
 ### 2. **Mérési helyszín, környezet és paraméterek**
 
 - **Mért frekvencia:** [586 MHz]
@@ -35,8 +34,6 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
 - RF kábel
 - METEK HD spektrum/jelszint analizátor
 - Laptop a jegyzőkönyv készítéséhez
-
-
 
 - ### 3. **Mérési paraméterek**
 
@@ -80,6 +77,7 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 | ISKRA p20 LOGPER      | -49.4 dBm               | -42.7 dBm                  | -48.1 dBm                   |
 | IKUSI FLASHD C48      | -41.9 dBm               | -50.9 dBm                  | -45.9 dBm                   |
 
+![Frekvencia](file:///U:/pictures/m%C3%A9r%C3%A9si%20k%C3%B6nyv/its_snapshot_0005.bmp)
 #### Megállapítások:
 
 1. **1. Vételi pont V3 labor**:
@@ -117,4 +115,7 @@ Az antenna típusa jelentősen befolyásolja a nyereséget és a jelminőséget 
 ### Következtetés
 
 Az antenna típusa, elhelyezése és a környezeti tényezők összhangja kulcsszerepet játszik a vételi pontokon tapasztalt jelminőségben és nyereségben. A megfelelő antenna kiválasztása kritikus a kívánt eredmények eléréséhez. Az ISKRA p20 LOGPER antenna, mint legjobb választás, figyelembe véve az elérhető eredményeket, jónak tűnik különböző környezetekben, de mindig ajánlott az antenna típusának alapos mérlegelése a konkrét felhasználási terület szerint.
+
+
+
 
