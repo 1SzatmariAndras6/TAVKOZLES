@@ -117,6 +117,8 @@ Az antenna típusa jelentősen befolyásolja a nyereséget és a jelminőséget 
 
 Az antenna típusa, elhelyezése és a környezeti tényezők összhangja kulcsszerepet játszik a vételi pontokon tapasztalt jelminőségben és nyereségben. A megfelelő antenna kiválasztása kritikus a kívánt eredmények eléréséhez. Az ISKRA p20 LOGPER antenna, mint legjobb választás, figyelembe véve az elérhető eredményeket, jónak tűnik különböző környezetekben, de mindig ajánlott az antenna típusának alapos mérlegelése a konkrét felhasználási terület szerint.
 
-
+## Időtartam
+- Antennák telepítése és mérések mindhárom vételi ponton: 120perc
+- Jegyzőkönyv készítése és kiértékelés: igen...
 
 
