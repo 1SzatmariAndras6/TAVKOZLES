@@ -22,8 +22,6 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
 - **Adó távolsága**: 0,78 km
 - **Adó frekvenciája**: 586Mhz
 
-  ---
-
 ### Eszközök
 - SMART HD 550 antenna
 - ISKRA P20 LOGPER antenna
@@ -89,7 +87,7 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 - Legjobb: ISKRA p20 LOGPER (-48.1 dBm)
 - Legrosszabb: SMART HD 550 (-47.8 dBm)
 
-  ---
+---
 
 ## Mért képek:
 <details>
