@@ -1,10 +1,10 @@
 # ANTENNA MÉRÉSI JEGYZŐKÖNYV
 ---
-- **Mérés helye**: [V3 labor, belső udvar, háts udvar]
-- **Mérés időpontja**: [2024.10.09]
-- **Mérő műszerek**:  [METEK HDD]
-- **Felelős személy**: [Szatmári András]
-- **Cél**: [Antennák nyereségének meg mérése]
+- **Mérés helye**: V3 labor, belső udvar, háts udvar
+- **Mérés időpontja**: 2024.10.09
+- **Mérő műszerek**:  METEK HDD
+- **Felelős személy**: Szatmári András
+- **Cél**: Antennák nyereségének meg mérése
 ---
 
 ### 1. **Bevezetés**
@@ -14,15 +14,14 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
 
 ### 2. **Mérési helyszín, környezet és paraméterek**
 
-- **Mért frekvencia:** [586 MHz]
-- **Koordináták**: [48°06'20"N 20°46'48"E]
-- **Antenna magassága**: [1,5méter]
-- **Környezet jellemzői**: [labor körökmények és szabadban esőben]
-- **Adó távolsága**: [0,78 km]
-- **Adó frekvenciája**: [586Mhz]
+- **Mért frekvencia:** 586 MHz
+- **Koordináták**: 48°06'20"N 20°46'48"E
+- **Antenna magassága**: 1,5méter
+- **Környezet jellemzői**: labor körökmények és szabadban esőben
+- **Adó távolsága**: 0,78 km
+- **Adó frekvenciája**: 586Mhz
 
-
-## Eszközök
+# Eszközök
 - SMART HD 550 antenna
 - ISKRA P20 LOGPER antenna
 - IKUSI FLASHD C48 antenna
@@ -33,8 +32,8 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
 - ### 3. **Mérési paraméterek**
 
 
-| Antenna típusa |1. Vételi pont V3 labor |2.Vételi pont belső udvar | 3. Vételi pont hátsó udvar |
-|-------------------|--------------------|-------------------|--------------------------|
+| Antenna típusa |1. Vételi pont V3 labor |2.Vételi pont belső udvar | 3. Vételi pont hátsó udvar|
+|-----------------------|------------------|-------------------|-----------------------|
 | **SMART HD 550**      | -51.3 dBm        | -44.2 dBm         | -47.8 dBm             |
 | **ISKRA p20 LOGPER**  | -49.4 dBm        | -42.7 dBm         | -48.1 dBm             |
 | **IKUSI FLASHD C48**  | -41.9 dBm        | -50.9 dBm         | -45.9 dBm             |
@@ -56,10 +55,11 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
     <summary>Táblázat:</summary>
 
 | Antenna típusa |1. Vételi pont V3 labor |2.Vételi pont belső udvar | 3. Vételi pont hátsó udvar |
-|-------------------|--------------------|-------------------|--------------------------|
+|-----------------------|------------------|-------------------|-----------------------|
 | **SMART HD 550**      | -51.3 dBm        | -44.2 dBm         | -47.8 dBm             |
 | **ISKRA p20 LOGPER**  | -49.4 dBm        | -42.7 dBm         | -48.1 dBm             |
 | **IKUSI FLASHD C48**  | -41.9 dBm        | -50.9 dBm         | -45.9 dBm             |
+
 </details>
 
 <br>
@@ -68,18 +68,18 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 ### Megállapítások:
 **1. Vételi pont V3 labor:**
 
-- Legjobb: [IKUSI FLASHD C48 (-41.9 dBm)]
-- Legrosszabb: [SMART HD 550 (-51.3 dBm)]
+- Legjobb: IKUSI FLASHD C48 (-41.9 dBm)
+- Legrosszabb: SMART HD 550 (-51.3 dBm)
 
 **2. Vételi pont belső udvar:**
 
-- Legjobb: [ISKRA p20 LOGPER (-42.7 dBm)]
-- Legrosszabb: [IKUSI FLASHD C48 (-50.9 dBm)]
+- Legjobb: ISKRA p20 LOGPER (-42.7 dBm)
+- Legrosszabb: IKUSI FLASHD C48 (-50.9 dBm)
 
 **3. Vételi pont hátsó udvar:**
 
-- Legjobb: [ISKRA p20 LOGPER (-48.1 dBm)]
-- Legrosszabb: [SMART HD 550 (-47.8 dBm)]
+- Legjobb: ISKRA p20 LOGPER (-48.1 dBm)
+- Legrosszabb: SMART HD 550 (-47.8 dBm)
 
 ## Mért képek:
 <details>
