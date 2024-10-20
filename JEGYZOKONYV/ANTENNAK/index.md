@@ -81,8 +81,6 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 - Legjobb: [ISKRA p20 LOGPER (-48.1 dBm)]
 - Legrosszabb: [SMART HD 550 (-47.8 dBm)]
 
-### 4. Kiértékelés
-
 ## Mért képek:
 <details>
     <summary>SMART HD 550 Antenna:</summary>
@@ -103,9 +101,9 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
     <summary>ISKRA P20 LOGPER:</summary>
    
    **SISKRA P20 LOGPER**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0015.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0021.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0007.bmp"/>
     
 ---
 
@@ -117,9 +115,9 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
     <summary>IKUSI FLASHHD C48:</summary>
    
    **IKUSI FLASHD C48**
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0009.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0010.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0006.bmp"/>
     
 ---
 
