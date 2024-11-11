@@ -1,4 +1,10 @@
 # Mérési Jegyzőkönyv - Antenna Teljesítmény és Jelminőség Összehasonlítása
+---
+- **Mérés helye**: V3 labor, belső udvar, hátsó udvar
+- **Mérés időpontja**: 2024.10.09
+- **Mérő műszerek**:  METEK HDD
+- **Felelős személy**: Szatmári András
+---
 
 ## 1. Mérési Feladat Célja
 
