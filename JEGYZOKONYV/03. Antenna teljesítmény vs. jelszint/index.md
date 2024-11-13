@@ -37,6 +37,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 - **Moduláció:** 16-QAM
 - **Sávszélesség:** 8 MHz
 - **Jelszint:** -10 dBm
+- **Antenna magasságai**: 1,4méter
 - A modulátor beállításai állandóak maradnak az egész mérés során, csak az antenna típusát változtatják a vételi oldalon.
 - Az adóoldalon egy körsugárzó antenna (Philips SDV5228) segítségével szórják a DVB-T jelet.
 
@@ -76,12 +77,12 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ---
 
-## Mért Adatok - 522 MHz frekvencián
+## Mért Adatok - 490 MHz frekvencián
 
 | **Antenna típusa**       | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
 |--------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER         |                     |                        |                    |
-| ISKRA P2845              |                     |                        |                    |
+| ISKRA P20 LOGPER         |      -56,5dBm       |     9,2mB/s            |    27,3dB          |
+| ISKRA P2845              |     -56,4dBm        |    9,5mB/s             |   27,7dB           |
 | IKUSI FLASHD C48         |                     |                        |                    |
 
 ---
