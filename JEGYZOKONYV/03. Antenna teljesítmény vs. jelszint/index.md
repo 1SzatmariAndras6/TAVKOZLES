@@ -109,8 +109,8 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 <details>
     <summary>ISKRA P2845:</summary>
-
-    <img src=""/>
+2.kép:
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0002.bmp"/>
     
 </details>
 
@@ -118,8 +118,8 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 <details>
     <summary>IKUSI FLASHD C48 :</summary>
-   
-    <img src=""/>
+   3. kép:
+    <img src="https://github.com/1SzatmariAndras6/TAVKOZLES2/blob/main/JEGYZOKONYV/03.%20Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0003.bmp"/>
     
 </details>
 
