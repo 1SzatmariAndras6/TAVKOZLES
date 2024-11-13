@@ -99,11 +99,33 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ## Mért képek:
 <details>
-    <summary>SMART HD 550 Antenna:</summary>
+    <summary>Iskra P20 LOGPER:</summary>
    
-   **SMART HD 550**
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0010.bmp"/>
+    <img src=""/>
+    
+</details>
 
+<br>
+
+<details>
+    <summary>ISKRA P2845:</summary>
+
+    <img src=""/>
+    
+</details>
+
+<br>
+
+<details>
+    <summary>IKUSI FLASHD C48 :</summary>
+   
+    <img src=""/>
+    
+</details>
+
+<br>
+    
+    
     
 ---
 
