@@ -1,6 +1,5 @@
 # Mérési Feladat Jegyzőkönyv
 
-## Feladat Címe:
 **A különböző típusú antennák teljesítménye és a vételi jelminőség összehasonlítása.**
 
 Ez a mérési feladat lehetővé teszi a hallgatók számára, hogy megismerjék és összehasonlítsák három különböző antenna teljesítményét ugyanazon jel sugárzásával. A feladat célja, hogy megvizsgálják, hogyan befolyásolja az antenna típusa a jelminőséget és a nyereséget különböző környezetekben.
