@@ -71,16 +71,23 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ---
 
-## Mért Adatok
+## Mért Adatok - 522 MHz frekvencián
 
-| **Antenna típusa**       | **RF frekvencia (MHz)** | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
-|--------------------------|-------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER         | 522                     |                     |                        |                    |
-| ISKRA P2845              | 522                     |                     |                        |                    |
-| IKUSI FLASHD C48         | 522                     |                     |                        |                    |
-| ISKRA P20 LOGPER         | 610                     |                     |                        |                    |
-| ISKRA P2845              | 610                     |                     |                        |                    |
-| IKUSI FLASHD C48         | 610                     |                     |                        |                    |
+| **Antenna típusa**       | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
+|--------------------------|---------------------|------------------------|--------------------|
+| ISKRA P20 LOGPER         |                     |                        |                    |
+| ISKRA P2845              |                     |                        |                    |
+| IKUSI FLASHD C48         |                     |                        |                    |
+
+---
+
+## Mért Adatok - 610 MHz frekvencián
+
+| **Antenna típusa**       | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
+|--------------------------|---------------------|------------------------|--------------------|
+| ISKRA P20 LOGPER         |                     |                        |                    |
+| ISKRA P2845              |                     |                        |                    |
+| IKUSI FLASHD C48         |                     |                        |                    |
 
 ---
 
