@@ -12,6 +12,14 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ---
 
+- **Mérés helye**: V3 labor
+- **Mérés időpontja**: 2024.11.13
+- **Felelős személy**: Szatmári András
+- 
+---
+
+---
+
 ## Eszközök
 - **Johansson 8202 DVB-T modulátor**
 - **ISKRA P20 LOGPER antenna** (vételre)
