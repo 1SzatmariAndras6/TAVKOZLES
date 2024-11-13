@@ -95,6 +95,16 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 | ISKRA P2845              |                     |                        |                    |
 | IKUSI FLASHD C48         |                     |                        |                    |
 
+--- 
+
+## Mért képek:
+<details>
+    <summary>SMART HD 550 Antenna:</summary>
+   
+   **SMART HD 550**
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0010.bmp"/>
+
+    
 ---
 
 ## Összegzés
