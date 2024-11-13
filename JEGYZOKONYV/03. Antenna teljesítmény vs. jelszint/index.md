@@ -101,7 +101,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 <details>
     <summary>Iskra P20 LOGPER:</summary>
    
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0005.bmp"/>
     
 </details>
 
