@@ -39,7 +39,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 - **Jelszint:** -10 dBm
 - **Antenna magasságai**: 1,4méter
 - A modulátor beállításai állandóak maradnak az egész mérés során, csak az antenna típusát változtatják a vételi oldalon.
-- Az adóoldalon egy körsugárzó antenna (Philips SDV5228) segítségével szórják a DVB-T jelet.
+- Az adóoldalon egy körsugárzó antenna (Philips SDV5228) segítségével szórjuk a DVB-T jelet.
 
 ### 2. Jelátvitel és mérés az ISKRA P20 LOGPER antennával
 - Csatlakoztassák az ISKRA P20 LOGPER antennát a DVB-T vevőhöz.
@@ -98,6 +98,14 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 --- 
 
 ## Mért képek:
+<details>
+  <summary>A 490 MHz-es Diagramm</summary>
+
+
+<img src"![3631d983-5604-44ef-b7c4-bf85c53a5553](https://github.com/user-attachments/assets/4661331f-361e-49c6-b8c2-8acec3644071)"/>
+
+</details>
+
 <details>
     <summary>Iskra P20 LOGPER:</summary>
   1. kép: 490 MHz
