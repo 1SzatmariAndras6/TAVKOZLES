@@ -100,7 +100,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 ## Mért képek:
 <details>
     <summary>Iskra P20 LOGPER:</summary>
-  1. kép:
+  1. kép: 490 MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/its_snapshot_0005.bmp"/>
     
 </details>
@@ -109,7 +109,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 <details>
     <summary>ISKRA P2845:</summary>
-2.kép:
+2.kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0002.bmp"/>
     
 </details>
@@ -118,7 +118,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 <details>
     <summary>IKUSI FLASHD C48 :</summary>
-   3. kép:
+   3. kép: 490MHz
     <img src="https://github.com/1SzatmariAndras6/TAVKOZLES2/blob/main/JEGYZOKONYV/03.%20Antenna%20teljes%C3%ADtm%C3%A9ny%20vs.%20jelszint/its_snapshot_0003.bmp"/>
     
 </details>
