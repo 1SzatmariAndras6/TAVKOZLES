@@ -99,9 +99,10 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ## Mért képek:
 <details>
-  <summary>A 490 MHz-es Diagramm</summary>
+  <summary>490 MHz-es Diagramm</summary>
 A három antenna teljesítményének összehasonlítására a 490 MHz-es frekvencián. Az oszlopok a jelszintet (dBm) mutatják, míg a pontokkal összekötött vonalak a MER értéket (dB) és a bitsebességet (Mbps) szemléltetik. A különböző színek és vonalstílusok megkönnyítik az adatok átlátását.
-
+  
+![image](https://github.com/user-attachments/assets/0aa89f92-8cd4-4171-b892-4b795f542cc5)
 ![3631d983-5604-44ef-b7c4-bf85c53a5553](https://github.com/user-attachments/assets/4661331f-361e-49c6-b8c2-8acec3644071)
 ![image](https://github.com/user-attachments/assets/2e638800-cfaa-49b4-9b94-9d3c6e5ef4ae)
 
