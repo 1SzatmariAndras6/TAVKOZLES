@@ -102,7 +102,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
   <summary>A 490 MHz-es Diagramm</summary>
 
 
-<img src"![3631d983-5604-44ef-b7c4-bf85c53a5553](https://github.com/user-attachments/assets/4661331f-361e-49c6-b8c2-8acec3644071)"/>
+![3631d983-5604-44ef-b7c4-bf85c53a5553](https://github.com/user-attachments/assets/4661331f-361e-49c6-b8c2-8acec3644071)
 
 </details>
 
