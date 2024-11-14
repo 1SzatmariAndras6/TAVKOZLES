@@ -2,8 +2,7 @@
 
 ---
 
-- [Antenna teljesítmény](https://1szatmariandras6.github.io/TAVKOZLES2/JEGYZOKONYV/JEGYZOKONYV/ANTENNAK)
-- [01. Frekvencia vs. moduláció mérési feladat](https://1szatmariandras6.github.io/TAVKOZLES2/JEGYZOKONYV/01. Frekvencia vs. moduláció mérési feladat)
--
+- [03. Antenna telejsítény vs. jelszint](https://1szatmariandras6.github.io/TAVKOZLES2/JEGYZOKONYV/03. Antenna telejsítény vs. jelszint)
+- [Antennak](https://1szatmariandras6.github.io/TAVKOZLES2/JEGYZOKONYV/ANTENNAK)
 
 ---
