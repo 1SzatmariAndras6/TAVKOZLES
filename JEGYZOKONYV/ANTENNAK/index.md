@@ -104,7 +104,6 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
    **2. Mérés:**
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0015.bmp"/>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0021.bmp"/>
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0007.bmp"/>
     
 ---
 
@@ -118,7 +117,6 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
    **3. Mérés:**
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0009.bmp"/>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0010.bmp"/>
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0006.bmp"/>
     
 ---
 
