@@ -101,11 +101,11 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 <details>
   <summary>490 MHz-es Diagramm</summary>
 
-A három antenna teljesítményének összehasonlítására a 490 MHz-es frekvencián. Az oszlopok a jelszintet (dBm) mutatják, míg a pontokkal összekötött vonalak a MER értéket (dB) és a bitsebességet (Mbps) szemléltetik. A különböző színek és vonalstílusok megkönnyítik az adatok átlátását.
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/K%C3%A9perny%C5%91k%C3%A9p%202024-11-14%20135237.png"/>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/K%C3%A9perny%C5%91k%C3%A9p%202024-11-14%20135237.png"/>
+A három antenna teljesítményének összehasonlítására a 490 MHz-es frekvencián. Az oszlopok a jelszintet (dBm) mutatják, míg a pontokkal összekötött vonalak a MER értéket (dB) és a bitsebességet (Mbps) szemléltetik. A különböző színek és vonalstílusok megkönnyítik az adatok átlátását.
   
 </details>
 
