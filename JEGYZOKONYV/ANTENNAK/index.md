@@ -73,9 +73,10 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
 ## Mért képek:
 
 <details>
+
     <summary>Grafikon:</summary>
    
-   <img src"https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0000.bmp.png"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0000.bmp.png"/>
 
 </details>
 
