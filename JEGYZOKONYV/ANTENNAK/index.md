@@ -77,7 +77,6 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
    
    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0000.bmp.png"/>
 
----
 
 </details>
 
@@ -91,7 +90,6 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0019.bmp"/>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0017.bmp"/>
     
----
 
 </details>
 
@@ -106,7 +104,6 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0021.bmp"/>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0007.bmp"/>
     
----
 
 </details>
 
@@ -120,13 +117,11 @@ Mérjük meg és hasonlítsuk össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI 
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0010.bmp"/>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/ANTENNAK/its_snapshot_0006.bmp"/>
     
----
 
 </details>
 
 <br>
 
----
 
 ## 5. Összefoglalás
 Az adatok alapján az ISKRA p20 LOGPER antenna a legjobb teljesítményt nyújtja a belső udvarban és a hátsó udvarban, míg az IKUSI FLASHD C48 antennának van a legjobb teljesítménye a V3 laborban.
