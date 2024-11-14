@@ -110,7 +110,7 @@ A három antenna teljesítményének összehasonlítására a 490 MHz-es frekven
 <details>
     <summary>Iskra P20 LOGPER:</summary>
   1. kép: 490 MHz
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/its_snapshot_0005.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
     
 </details>
 
