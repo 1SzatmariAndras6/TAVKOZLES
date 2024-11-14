@@ -59,6 +59,7 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 
 <details>
     <summary>Táblázat:</summary>
+  
 | Antenna típusa |1. Vételi pont V3 labor |2.Vételi pont belső udvar | 3. Vételi pont hátsó udvar |
 |-----------------------|-----------|------------|------------|
 | **SMART HD 550**      | -51.3 dBm | -44.2 dBm  | -47.8 dBm  |
@@ -66,10 +67,6 @@ Az alábbi táblázatban található adatok segítségével összehasonlíthatju
 | **IKUSI FLASHD C48**  | -41.9 dBm | -50.9 dBm  | -45.9 dBm  |
 
 </details>
-
-<br>
-
-
 
 ### Megállapítások:
 **1. Vételi pont V3 labor:**
