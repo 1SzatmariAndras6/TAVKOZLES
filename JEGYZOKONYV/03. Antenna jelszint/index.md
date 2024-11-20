@@ -72,8 +72,26 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
   - Bitsebesség (Mbps)
 
 ### 7. Kiértékelés
-- Elemezzék, melyik antenna biztosította a legjobb jelminőséget és jelszintet.
-- Ismertessék, hogy milyen tényezők befolyásolhatják a különböző antennák teljesítményét (pl. antenna típus, nyereség, iránykarakterisztika).
+#### Legjobb jelminőség:
+
+- **490 MHz frekvencián:**  
+  Az **ISKRA P2845** antenna teljesített a legjobban, mivel a legnagyobb MER értéket (27,7 dB) és bitsebességet (9,5 Mbps) biztosította.
+
+- **730 MHz frekvencián:**  
+  Az **ISKRA P2845** ismét kiemelkedett (MER: 27,5 dB, bitsebesség: 9,59 Mbps), azonban az **IKUSI FLASHD C48** magasabb bitsebességet ért el (9,81 Mbps), bár a jelszint és MER értékek gyengébbek voltak.
+
+### Környezet és frekvencia hatása:
+
+- A 730 MHz-es frekvencián minden antenna teljesítménye kissé romlott, különösen a MER értékek csökkentek, ami az emelkedő frekvenciával járó csillapításnak tudható be.
+
+### Tényezők, amelyek befolyásolták a teljesítményt:
+
+- **Antennák nyeresége:**  
+  Az **ISKRA P2845** nagyobb nyereséget biztosított, különösen alacsonyabb frekvenciákon.
+
+- **Iránykarakterisztika:**  
+  Az irányítottabb antennák (pl. **ISKRA P20 LOGPER**) jobb MER-t biztosítottak bizonyos körülmények között, míg a szélesebb nyalábkarakterisztikájú antennák (**IKUSI FLASHD C48**) nagyobb bitsebességet értek el.
+
 
 ---
 
@@ -150,14 +168,30 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
  
 <br>
     
-  
----
-
-## Összegzés
-A mérések alapján összehasonlíthatjuk az egyes antennák teljesítményét különböző frekvenciákon, és értékelhetjük, hogy melyik antenna biztosította a legjobb jelminőséget és jelszintet. Ezen kívül elemezhetjük a mérési környezet hatását és a különböző antennák teljesítményét befolyásoló tényezőket.
-
 ---
 
 ## Következtetések
-Itt rögzíthetjük a következtetéseket, amelyek segíthetnek az antenna kiválasztásában és alkalmazásában különböző környezetekben és körülmények között.
+
+### Ajánlások antenna kiválasztására:
+
+1. Az **ISKRA P2845** antenna alkalmasabb a stabil és jó jelminőség biztosítására, különösen alacsonyabb frekvenciákon.
+2. Ha nagyobb bitsebesség elérése a cél, és kevésbé fontos a jelszint vagy a MER, akkor az **IKUSI FLASHD C48** használata előnyös lehet.
+
+### További szempontok:
+
+- A különböző antennák használata során a frekvencia, a környezeti viszonyok és az antenna felszerelési magassága is jelentős hatással van az eredményekre.
+
+### Gyakorlati tanulságok:
+
+- Az iránykarakterisztika és a nyereség kritikus tényezők a választás során, különösen, ha adott környezetben kell optimális teljesítményt biztosítani.
+
+---
+
+## Mérési jegyzőkönyv lezárása
+
+A mérések sikeresen zárultak, az eredmények alátámasztják a különböző antennák közötti teljesítménybeli eltéréseket és a frekvencia hatását a jelminőségre.
+
+---
+
+
 
