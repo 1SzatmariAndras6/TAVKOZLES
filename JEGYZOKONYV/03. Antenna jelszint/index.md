@@ -99,16 +99,19 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ## Mért képek:
 <details>
-  <summary>490 MHz-es Diagramm</summary>
+  <summary>490MHz és 730MHZ-es Diagrammok</summary>
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/K%C3%A9perny%C5%91k%C3%A9p%202024-11-14%20135237.png"/>
+<br>
 *A három antenna teljesítményének összehasonlítására a 490 MHz-es frekvencián. Az oszlopok a jelszintet (dBm) mutatják, míg a pontokkal összekötött vonalak a MER értéket (dB) és a bitsebességet (Mbps) szemléltetik. A különböző színek és vonalstílusok megkönnyítik az adatok átlátását.*
 <br>
 730 MHz Diagramm: 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/5124ca69-8048-4649-9063-49e4b8a9beaa.jpg"/>
 <br>
 - **Skyblue (kék):** Jelszint (dBm) – minél alacsonyabb az érték, annál jobb a jelszint.
+  <br>
 - **Orange (narancssárga):** Bitsebesség (Mbps) – az adatátvitel sebességét jelzi.
+  <br>
 - **Lightgreen (világoszöld):** MER (dB) – a modulációs hibaarány, a jelminőség mutatója.
 
   
