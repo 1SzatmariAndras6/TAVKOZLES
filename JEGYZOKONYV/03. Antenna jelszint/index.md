@@ -38,31 +38,13 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 - **Sávszélesség:** 8 MHz
 - **Jelszint:** -10 dBm
 - **Antenna magasságai**: 1,4méter
-- A modulátor beállításai állandóak maradnak az egész mérés során, csak az antenna típusát változtatják a vételi oldalon.
+- A modulátor beállításai állandóak maradnak az egész mérés során, csak az antenna típusát változtatjuk a vételi oldalon.
 - Az adóoldalon egy körsugárzó antenna (Philips SDV5228) segítségével szórjuk a DVB-T jelet.
 
-### 2. Jelátvitel és mérés az ISKRA P20 LOGPER antennával
-- Csatlakoztassák az ISKRA P20 LOGPER antennát a DVB-T vevőhöz.
-- Mérjék meg a következő paramétereket:
-  - Jelszint (dBm)
-  - Modulation Error Ratio (MER)
-  - Bitsebesség (Mbps)
-- Rögzítsék az eredményeket.
-
-### 3. Jelátvitel és mérés az ISKRA P2845 antennával
-- Csatlakoztassák az ISKRA P2845 antennát a DVB-T vevőhöz.
-- Mérjék meg a jelszintet, a MER-t és a bitsebességet.
-- Rögzítsék az eredményeket.
-
-### 4. Jelátvitel és mérés az IKUSI FLASHD C48 antennával
-- Csatlakoztassák az IKUSI FLASHD C48 antennát a DVB-T vevőhöz.
-- Mérjék meg a jelszintet, a MER-t és a bitsebességet.
-- Rögzítsék az eredményeket.
-
 ### 5. Mérés ismétlése egy másik szabad frekvencián
-- Ismételjék meg a méréseket mindegyik antennatípussal egy másik szabad csatornán.
-- Az új frekvencia térjen el legalább 80-100 MHz-től az előző mérésekhez képest.
 
+- Az új frekvencián lett a 730MHz
+- 
 ### 6. Jegyzőkönyv készítése
 - Készítsenek jegyzőkönyvet a mérési eredmények alapján, amely tartalmazza a következő paramétereket minden antennára vonatkozóan:
   - Antenna típusa
