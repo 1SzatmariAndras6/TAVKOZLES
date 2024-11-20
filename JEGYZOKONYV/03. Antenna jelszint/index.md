@@ -44,7 +44,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 ### 5. Mérés ismétlése egy másik szabad frekvencián
 
 - Az új frekvencián lett a 730MHz
-- 
+  
 ### 6. Jegyzőkönyv készítése
 - Készítsenek jegyzőkönyvet a mérési eredmények alapján, amely tartalmazza a következő paramétereket minden antennára vonatkozóan:
   - Antenna típusa
@@ -103,17 +103,23 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/K%C3%A9perny%C5%91k%C3%A9p%202024-11-14%20135237.png"/>
 <br>
+
 *A három antenna teljesítményének összehasonlítására a 490 MHz-es frekvencián. Az oszlopok a jelszintet (dBm) mutatják, míg a pontokkal összekötött vonalak a MER értéket (dB) és a bitsebességet (Mbps) szemléltetik. A különböző színek és vonalstílusok megkönnyítik az adatok átlátását.*
 <br>
+
 730 MHz Diagramm:
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/534475bb-44e2-486c-8e35-bd3481a813fb.jpg"/>
+
 <br>
+
 Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, bitsebesség és MER érték) ábrázolja a 730 MHz-es frekvencián. A következő elemeket tartalmazza:
 
 - Kék vonal (Jelszint dBm): Alacsonyabb értékek jelzik a jobb jelszintet.
   <br>
+  
 - Narancssárga vonal (Bitsebesség Mbps): Az adatátvitel sebességét mutatja.
   <br>
+  
 - Zöld vonal (MER dB): A jelminőség mutatója.
 
   
