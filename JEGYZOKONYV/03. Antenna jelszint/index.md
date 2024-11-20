@@ -83,7 +83,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 |--------------------------|---------------------|------------------------|--------------------|
 | ISKRA P20 LOGPER         |      -56,5dBm       |        9,2mB/s         |      27,3dB        |
 | ISKRA P2845              |      -56,4dBm       |        9,5mB/s         |      27,7dB        |
-| IKUSI FLASHD C48         |      -59,2dB        |        8,7mB/s         |      26,5dB        |
+| IKUSI FLASHD C48         |      -59,2dBm        |        8,7mB/s         |      26,5dB        |
 
 ---
 
@@ -91,9 +91,9 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 | **Antenna típusa**       | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
 |--------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER         |                     |                        |                    |
-| ISKRA P2845              |                     |                        |                    |
-| IKUSI FLASHD C48         |                     |                        |                    |
+| ISKRA P20 LOGPER         |    60,3dBm          |       9,3Mb/s          |       23dB         |
+| ISKRA P2845              |   -59,5dBm          |       9,59Mb/s         |       27,5dB       |
+| IKUSI FLASHD C48         |   -66,5dBm          |       9,81Mb/s         |       23,7dB       |
 
 --- 
 
