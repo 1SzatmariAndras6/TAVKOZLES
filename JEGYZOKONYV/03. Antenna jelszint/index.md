@@ -87,11 +87,11 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ---
 
-## Mért Adatok - 610 MHz frekvencián
+## Mért Adatok - 730 MHz frekvencián
 
 | **Antenna típusa**       | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
 |--------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER         |    60,3dBm          |       9,3Mb/s          |       23dB         |
+| ISKRA P20 LOGPER         |   -60,3dBm          |       9,3Mb/s          |       23 dB        |
 | ISKRA P2845              |   -59,5dBm          |       9,59Mb/s         |       27,5dB       |
 | IKUSI FLASHD C48         |   -66,5dBm          |       9,81Mb/s         |       23,7dB       |
 
@@ -107,7 +107,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 *A három antenna teljesítményének összehasonlítására a 490 MHz-es frekvencián. Az oszlopok a jelszintet (dBm) mutatják, míg a pontokkal összekötött vonalak a MER értéket (dB) és a bitsebességet (Mbps) szemléltetik. A különböző színek és vonalstílusok megkönnyítik az adatok átlátását.*
   
-</details>
+
 
 <br>
 
@@ -116,7 +116,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
   1. kép: 490 MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
     
-</details>
+
 
 <br>
 
@@ -125,7 +125,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 2.kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0002.bmp"/>
     
-</details>
+
 
 <br>
 
@@ -134,11 +134,11 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
    3. kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0003.bmp"/>
     
-</details>
+
 
 <br>
     
-  
+  </details>
 ---
 
 ## Összegzés
