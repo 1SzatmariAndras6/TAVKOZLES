@@ -115,7 +115,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
     <summary>Iskra P20 LOGPER</summary>
   1. kép: 490 MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
-  2. kép: 730MHz
+   730MHz : 
   <br>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0051.bmp"/>
 
@@ -127,6 +127,9 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
     <summary>ISKRA P2845</summary>
 2.kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0002.bmp"/>
+     730MHz :
+  <br>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0053.bmp"/>
     
 
  
