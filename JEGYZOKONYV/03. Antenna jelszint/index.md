@@ -81,9 +81,9 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 | **Antenna típusa**       | **Jelszint (dBm)**  | **Bitsebesség (Mbps)** | **MER érték (dB)**  |
 |--------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER         |      -56,5dBm       |        9,2mB/s         |      27,3dB        |
-| ISKRA P2845              |      -56,4dBm       |        9,5mB/s         |      27,7dB        |
-| IKUSI FLASHD C48         |      -59,2dBm        |        8,7mB/s         |      26,5dB        |
+| ISKRA P20 LOGPER         |      -56,5dBm       |        9,2mBps         |      27,3dB        |
+| ISKRA P2845              |      -56,4dBm       |        9,5mBps         |      27,7dB        |
+| IKUSI FLASHD C48         |      -59,2dBm       |        8,7mBps         |      26,5dB        |
 
 ---
 
@@ -91,9 +91,9 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 | **Antenna típusa**       | **Jelszint (dBm)** | **Bitsebesség (Mbps)** | **MER érték (dB)** |
 |--------------------------|---------------------|------------------------|--------------------|
-| ISKRA P20 LOGPER         |   -60,3dBm          |       9,3Mb/s          |       23 dB        |
-| ISKRA P2845              |   -59,5dBm          |       9,59Mb/s         |       27,5dB       |
-| IKUSI FLASHD C48         |   -62,8dBm          |       9,81Mb/s         |       23,7dB       |
+| ISKRA P20 LOGPER         |   -60,3dBm          |       9,3Mbps          |       23 dB        |
+| ISKRA P2845              |   -59,5dBm          |       9,59Mbps         |       27,5dB       |
+| IKUSI FLASHD C48         |   -62,8dBm          |       9,81Mbps         |       23,7dB       |
 
 --- 
 
@@ -112,7 +112,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 <br>
 Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, bitsebesség és MER érték) ábrázolja a 730 MHz-es frekvencián. A következő elemeket tartalmazza:
-
+<br>
 - Kék vonal (Jelszint dBm): Alacsonyabb értékek jelzik a jobb jelszintet.
   <br>
 - Narancssárga vonal (Bitsebesség Mbps): Az adatátvitel sebességét mutatja.
