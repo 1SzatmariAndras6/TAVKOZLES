@@ -141,6 +141,9 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
     <summary>IKUSI FLASHD C48</summary>
    3. kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0003.bmp"/>
+    730MHz :
+  <br>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0054.bmp"/>
     
 
  </details>
