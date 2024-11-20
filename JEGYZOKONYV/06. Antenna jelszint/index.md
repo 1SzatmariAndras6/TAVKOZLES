@@ -127,7 +127,8 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  
 <details>
     <summary>ISKRA P2845</summary>
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/3913-1.png"/>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/iskra-p-2845_6018d271.jpg"/>
+<br>
 2.kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0002.bmp"/>
      730MHz :
@@ -142,7 +143,8 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  <br>
 <details>
     <summary>IKUSI FLASHD C48</summary>
-   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/iskra-p-2845_6018d271.jpg"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/3913-1.png"/>
+   <br>
    3. kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0003.bmp"/>
     730MHz :
