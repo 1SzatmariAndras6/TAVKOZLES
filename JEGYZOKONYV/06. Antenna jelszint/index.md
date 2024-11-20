@@ -156,6 +156,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 <details>
     <summary>Antenna képek : </summary>
  Antenna képek:
+  <br>
   IKUSI FLASHD C48
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/3913-1.png"/>
   Iskra-p2845
@@ -165,6 +166,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
      Iskra P20 LOGPER
    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/220318106.jpg"/>
     
+<br>
 
  </details>
  
