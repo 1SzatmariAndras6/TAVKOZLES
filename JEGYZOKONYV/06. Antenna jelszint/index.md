@@ -115,10 +115,10 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 <details>
     <summary>Iskra P20 LOGPER</summary>
   1. kép: 490 MHz
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
    730MHz : 
   <br>
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0051.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0051.bmp"/>
 
 </details>
   
@@ -127,10 +127,10 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 <details>
     <summary>ISKRA P2845</summary>
 2.kép: 490MHz
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0002.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0002.bmp"/>
      730MHz :
   <br>
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0053.bmp"/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0053.bmp"/>
     
 
  
