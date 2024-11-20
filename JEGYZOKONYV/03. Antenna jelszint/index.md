@@ -93,7 +93,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 |--------------------------|---------------------|------------------------|--------------------|
 | ISKRA P20 LOGPER         |   -60,3dBm          |       9,3Mb/s          |       23 dB        |
 | ISKRA P2845              |   -59,5dBm          |       9,59Mb/s         |       27,5dB       |
-| IKUSI FLASHD C48         |   -66,5dBm          |       9,81Mb/s         |       23,7dB       |
+| IKUSI FLASHD C48         |   -62,8dBm          |       9,81Mb/s         |       23,7dB       |
 
 --- 
 
@@ -115,9 +115,10 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
     <summary>Iskra P20 LOGPER</summary>
   1. kép: 490 MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
-    
+    <img src"=https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/its_snapshot_0051.bmp"/>
 
   </details>
+  
 <br>
  
 <details>
@@ -127,10 +128,10 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
     
 
  
-<br>
+
 
  </details>
- 
+ <br>
 <details>
     <summary>IKUSI FLASHD C48</summary>
    3. kép: 490MHz
