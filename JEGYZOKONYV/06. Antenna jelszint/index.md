@@ -108,12 +108,13 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 - Zöld vonal (MER dB): A jelminőség mutatója.
 
   
- 
  </details>
+ 
 <br>
  
 <details>
     <summary>Iskra P20 LOGPER</summary>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/220318106.jpg"/>
   1. kép: 490 MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
    730MHz : 
@@ -126,6 +127,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  
 <details>
     <summary>ISKRA P2845</summary>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/3913-1.png"/>
 2.kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0002.bmp"/>
      730MHz :
@@ -140,6 +142,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  <br>
 <details>
     <summary>IKUSI FLASHD C48</summary>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/iskra-p-2845_6018d271.jpg"/>
    3. kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0003.bmp"/>
     730MHz :
@@ -152,26 +155,6 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 <br>
 
 </details>
- <br>
-<details>
-    <summary>Antenna képek : </summary>
- Antenna képek:
-  <br>
-  IKUSI FLASHD C48
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/3913-1.png"/>
-  Iskra-p2845
-  <br>
-   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/iskra-p-2845_6018d271.jpg"/>
-     <br>
-     Iskra P20 LOGPER
-   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/220318106.jpg"/>
-    
-<br>
-
- </details>
- 
-<br>
-    
 ---
 
 ## 6. Következtetések
