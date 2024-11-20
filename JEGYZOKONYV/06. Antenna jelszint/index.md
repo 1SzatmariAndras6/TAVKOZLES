@@ -156,12 +156,12 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 <details>
     <summary>Antenna képek : </summary>
  Antenna képek:
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/3913-1.png"/>
   
   <br>
-   <img src=""/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/iskra-p-2845_6018d271.jpg"/>
      <br>
-   <img src=""/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/220318106.jpg"/>
     
 
  </details>
