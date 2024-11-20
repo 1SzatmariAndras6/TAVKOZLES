@@ -115,6 +115,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 <details>
     <summary>ISKRA P20 LOGPER</summary>
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/220318106.jpg"/>
+  <br>
   1. kép: 490 MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0001.bmp"/>
    730MHz : 
@@ -156,7 +157,6 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  
 <br>
 
-</details>
 ---
 
 ## 6. Következtetések
