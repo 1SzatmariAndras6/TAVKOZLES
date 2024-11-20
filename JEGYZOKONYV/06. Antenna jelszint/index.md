@@ -44,7 +44,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 ### 3. Mérés ismétlése egy másik szabad frekvencián
 
-- Az új frekvencián lett a 730MHz
+- Az új frekvenciánk lett a 730MHz
   
 ### 4. Jegyzőkönyv készítése
 - Készítsenek jegyzőkönyvet a mérési eredmények alapján, amely tartalmazza a következő paramétereket minden antennára vonatkozóan:
