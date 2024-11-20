@@ -150,6 +150,23 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  </details>
  
 <br>
+
+</details>
+ <br>
+<details>
+    <summary>Antenna képek : </summary>
+ Antenna képek:
+    <img src=""/>
+  
+  <br>
+   <img src=""/>
+     <br>
+   <img src=""/>
+    
+
+ </details>
+ 
+<br>
     
 ---
 
