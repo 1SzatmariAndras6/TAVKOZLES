@@ -41,11 +41,11 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 - A modulátor beállításai állandóak maradnak az egész mérés során, csak az antenna típusát változtatjuk a vételi oldalon.
 - Az adóoldalon egy körsugárzó antenna (Philips SDV5228) segítségével szórjuk a DVB-T jelet.
 
-### 5. Mérés ismétlése egy másik szabad frekvencián
+### 3. Mérés ismétlése egy másik szabad frekvencián
 
 - Az új frekvencián lett a 730MHz
   
-### 6. Jegyzőkönyv készítése
+### 4. Jegyzőkönyv készítése
 - Készítsenek jegyzőkönyvet a mérési eredmények alapján, amely tartalmazza a következő paramétereket minden antennára vonatkozóan:
   - Antenna típusa
   - RF frekvencia (MHz)
@@ -53,7 +53,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
   - MER érték (dB)
   - Bitsebesség (Mbps)
 
-### 7. Kiértékelés
+### 5. Kiértékelés
 #### Legjobb jelminőség:
 
 - **490 MHz frekvencián:**  
@@ -66,7 +66,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 - A 730 MHz-es frekvencián minden antenna teljesítménye kissé romlott, különösen a MER értékek csökkentek, ami az emelkedő frekvenciával járó csillapításnak tudható be.
 
-### 8. Tényezők, amelyek befolyásolták a teljesítményt:
+### 6. Tényezők, amelyek befolyásolták a teljesítményt:
 
 - **Antennák nyeresége:**  
   Az **ISKRA P2845** nagyobb nyereséget biztosított, különösen alacsonyabb frekvenciákon.
@@ -97,7 +97,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 --- 
 
-## 9. Mért képek:
+## 6. Mért képek:
 <details>
   <summary>490MHz és 730MHZ-es Diagrammok</summary>
 
@@ -165,7 +165,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
     
 ---
 
-## 10. Következtetések
+## 7. Következtetések
 
 ### Ajánlások antenna kiválasztására:
 
