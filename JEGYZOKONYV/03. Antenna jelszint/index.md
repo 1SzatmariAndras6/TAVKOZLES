@@ -128,7 +128,9 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
  
 <br>
+
  </details>
+ 
 <details>
     <summary>IKUSI FLASHD C48</summary>
    3. kép: 490MHz
@@ -136,6 +138,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
     
 
  </details>
+ 
 <br>
     
   
