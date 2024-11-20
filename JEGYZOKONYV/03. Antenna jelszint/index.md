@@ -111,15 +111,12 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/534475bb-44e2-486c-8e35-bd3481a813fb.jpg"/>
 
 <br>
-
 Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, bitsebesség és MER érték) ábrázolja a 730 MHz-es frekvencián. A következő elemeket tartalmazza:
 
 - Kék vonal (Jelszint dBm): Alacsonyabb értékek jelzik a jobb jelszintet.
   <br>
-  
 - Narancssárga vonal (Bitsebesség Mbps): Az adatátvitel sebességét mutatja.
   <br>
-  
 - Zöld vonal (MER dB): A jelminőség mutatója.
 
   
