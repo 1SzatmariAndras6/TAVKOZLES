@@ -105,7 +105,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 <br>
 *A három antenna teljesítményének összehasonlítására a 490 MHz-es frekvencián. Az oszlopok a jelszintet (dBm) mutatják, míg a pontokkal összekötött vonalak a MER értéket (dB) és a bitsebességet (Mbps) szemléltetik. A különböző színek és vonalstílusok megkönnyítik az adatok átlátását.*
 <br>
-**730 MHz Diagramm:**
+730 MHz Diagramm:
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES2/refs/heads/main/JEGYZOKONYV/03.%20Antenna%20jelszint/5124ca69-8048-4649-9063-49e4b8a9beaa.jpg"/>
 <br>
 - **Skyblue (kék):** Jelszint (dBm) – minél alacsonyabb az érték, annál jobb a jelszint.
