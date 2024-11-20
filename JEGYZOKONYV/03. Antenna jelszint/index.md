@@ -66,7 +66,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 - A 730 MHz-es frekvencián minden antenna teljesítménye kissé romlott, különösen a MER értékek csökkentek, ami az emelkedő frekvenciával járó csillapításnak tudható be.
 
-### Tényezők, amelyek befolyásolták a teljesítményt:
+### 8. Tényezők, amelyek befolyásolták a teljesítményt:
 
 - **Antennák nyeresége:**  
   Az **ISKRA P2845** nagyobb nyereséget biztosított, különösen alacsonyabb frekvenciákon.
@@ -97,7 +97,7 @@ A hallgatók ismerjék meg a különböző antennák jellemzőit, és mérjék a
 
 --- 
 
-## Mért képek:
+## 9. Mért képek:
 <details>
   <summary>490MHz és 730MHZ-es Diagrammok</summary>
 
@@ -165,7 +165,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
     
 ---
 
-## Következtetések
+## 10. Következtetések
 
 ### Ajánlások antenna kiválasztására:
 
