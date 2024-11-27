@@ -43,7 +43,8 @@ A fentiekben leírt lépések mindegyikét végrehajtottuk a megadott utasítás
 <details>
    <br>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/07.%20-%20Frekvencia%20%C3%A1thelyez%C3%A9s%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0005.bmp">
-
+<br>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/07.%20-%20Frekvencia%20%C3%A1thelyez%C3%A9s%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0006.bmp">
 </details>
 
 ---
@@ -59,6 +60,12 @@ A fentiekben leírt lépések mindegyikét végrehajtottuk a megadott utasítás
    - A bemeneti és kimeneti jelszinteket spektrumanalizátor segítségével mértük és rögzítettük.
 
 A fentieket az előírt módon végrehajtottuk, és minden adatot megfelelően feljegyeztünk.
+
+<details>
+   <br>
+<img src="">
+
+</details>
 
 ---
 
