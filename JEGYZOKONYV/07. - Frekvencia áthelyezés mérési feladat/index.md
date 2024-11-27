@@ -1,10 +1,12 @@
 # Gyakorlat Jegyzőkönyve: Johansson 6700 Profiler Beállítások és Mérések
 ---
+
 - **Mérés helye**: V3 labor
 - **Mérés időpontja**: 2024.11.13
 - **Felelős személy**: Szatmári András
 - **Csoport**: Távközlési technikus, 13/E
 - **Mérés tárgya**: DVB-T jel generálása és mérése Johansson 8202 DVB-T modulátorral és METEK HD spektrum/jelszint analizátorral
+
 ---
 ## Szükséges eszközök
 - **Johansson 6700 Profiler**: Programozható antennaerősítő-szűrő
