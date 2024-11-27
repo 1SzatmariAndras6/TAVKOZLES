@@ -37,6 +37,13 @@
 
 ## Táblázat a jegyzőkönyvhöz
 
+E28	CH 41	63dBu
+E31	CH 42	64dBu
+E35	CH 43	61dBu
+E41	CH 44	48dBu
+E45	CH 45	59dBu
+E48	CH 46	56dBu
+![image](https://github.com/user-attachments/assets/26c6f1d4-b499-4b57-9e1f-e24cd6453cba)
 
 
 ---
