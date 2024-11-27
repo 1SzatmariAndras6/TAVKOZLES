@@ -64,7 +64,8 @@ A fentieket az előírt módon végrehajtottuk, és minden adatot megfelelően f
 <details>
    <br>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/07.%20-%20Frekvencia%20%C3%A1thelyez%C3%A9s%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0007.bmp">
-
+<br>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/07.%20-%20Frekvencia%20%C3%A1thelyez%C3%A9s%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0008.bmp">
 </details>
 
 ---
