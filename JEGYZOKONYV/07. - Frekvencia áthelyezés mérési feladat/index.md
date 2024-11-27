@@ -18,16 +18,57 @@
 
 ## Feladat leírása
 
-### 1.  
+### 1.  Eszközök bekapcsolása és bekötése
+
+0.1 **Antenna csatlakoztatása a spektrumanalizátorhoz:**
+   - Az antennát csatlakoztattuk a spektrumanalizátor bemenetére.
+   - A spektrumanalizátort 45 MHz és 1000 MHz közötti frekvenciaablakra állítottuk.
+   - Megfigyeltük és elmentettük az érkező jeleket ezen a frekvenciatartományban.
+
+0.2 **Antenna csatlakoztatása a Johansson 6700 Profilerhez:**
+   - Az antennát áthelyeztük a Johansson 6700 Profiler egyik illeszkedő bemenetére.
+   - A spektrumanalizátort RF kábeleken keresztül csatlakoztattuk a Johansson 6700 Profilerhez, hogy mérjük az érkező jeleket.
+
+0.3 **Antennák csatlakoztatása a megfelelő bemenetekhez:**
+   - **FM antenna** csatlakoztatása az FM bemenetre.
+   - **DVB-T antenna** csatlakoztatása a VHF/UHF bemenetre.
+   - **Koax kábel** csatlakoztatása egy másik VHF/UHF bemenetre (például a Johansson 8202 modulátorhoz).
+
+0.4 **Spektrumanalizátor csatlakoztatása a Johansson 6700 Profiler kimenetéhez:**
+   - A spektrumanalizátort csatlakoztattuk a Johansson 6700 Profiler kimenetére a kimenő jelek méréséhez.
+
+A fentiekben leírt lépések mindegyikét végrehajtottuk a megadott utasítások szerint.
 
 ---
 
 ### 2. Csatornaáthelyezés és jelszint-optimalizálás 
 
+**Automatikus szintszabályozás és erősítő beállítása:**
+   - Aktiváltuk az automatikus csatornánkénti szintszabályzást (AGC) az eszköz menüjében.
+   - Szükség esetén bekapcsoltuk az antenna erősítőt.
+
+0.1 **Kimeneti jelszintek beállítása:**
+   - A kimenő jelszinteket 100 dBu-ra állítottuk, függetlenül a bejövő jelek eltérő szintjétől.
+   - A bemeneti és kimeneti jelszinteket spektrumanalizátor segítségével mértük és rögzítettük.
+
+A fentieket az előírt módon végrehajtottuk, és minden adatot megfelelően feljegyeztünk.
 
 ---
 
-### 3. 
+### 3. Szűrő beállítások és interferencia vizsgálat 
+
+ A szűrő beállításokat és interferencia vizsgálatot az alábbiak szerint végeztük el:
+
+0.1 **LTE szűrő ellenőrzése:**
+   - Ellenőriztük, hogy az eszközben található LTE szűrő megfelelően megszűri-e a 790 MHz feletti zavaró jeleket.
+
+0.2 **Jelek vizsgálata a spektrumanalizátorral:**
+   - A spektrumanalizátor segítségével figyeltük meg, hogyan változnak a jelek a kimeneten, amikor a szűrő aktiválva van.
+0.3 **Jegyzőkönyv készítése:**
+   - A bemeneti és kimeneti spektrum különbségeit rögzítettük.
+   - Feljegyeztük, hogy a szűrő hogyan befolyásolja a jelminőséget és a jelszintet.
+
+A vizsgálatokat a megadott módon elvégeztük, és az adatokat megfelelően dokumentáltuk.
 
 ---
 
@@ -49,4 +90,3 @@
 ---
 
 ## Jegyzőkönyv Lezárása
-A jegyzőkönyvben a tanulóknak részletesen dokumentálniuk kell az eredeti és áthelyezett frekvenciákat, a bemeneti és kimeneti jelszinteket, valamint a szűrők alkalmazásának hatását. A fenti táblázat segít az eredmények rendszerezésében és áttekintésében.
