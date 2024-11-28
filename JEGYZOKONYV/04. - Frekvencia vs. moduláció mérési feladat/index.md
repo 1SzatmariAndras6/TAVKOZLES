@@ -42,9 +42,5 @@ Vizsgálják meg a különböző modulációs típusok hatását a jelminőségr
 - Beszéljék meg a csoportban, hogy melyik modulációs típus és frekvenciabeállítás eredményezte a legjobb jelminőséget.
 
 # Jegyzőkönyv sablon
-| Mérési paraméter   | RF frekvencia (MHz) | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
-|--------------------|---------------------|------------------|---------------------|----------------|---------------------|----------------|
-| Mérési eredmény 1  |                     |                  |                     |                |                     |                |
-| Mérési eredmény 2  |                     |                  |                     |                |                     |                |
-| Mérési eredmény 3  |                     |                  |                     |                |                     |                |
+| Mérési paraméter|RF frekvencia (MHz)| Moduláció típusa|Sávszélesség (MHz)|Jelszint (dBm)|Bitsebesség (Mbps)|MER érték (dB)|
 
