@@ -22,3 +22,26 @@
 
 <br>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/5e951d5149058ee1226aa7e69a42019efbca4d91/JEGYZOKONYV/01%20-%20T%20m%C3%A9r%C3%A9si%20feladat/attenuator-resistive-t-section-pad.svg">
+
+3. Dokumentált eredmények:
+
+
+## Jegyzőkönyv Szempontok
+
+- **Dátum és idő:** Mikor végezték a méréseket?
+- **Csoport neve:** Ki végezte a kísérletet?
+- **Ellenállások értékei:** R1 és R2 mért értékei.
+- **Mérési eredmények:**
+  - Bemeneti impedancia (Ω)
+  - Kimeneti impedancia (Ω)
+  - Átviteli arány (dB)
+  - Csillapítás (dB)
+- **Eredmények összehasonlítása:**
+
+
+- **Megjegyzések:**
+ 
+ 
+    ---
+    
+A **T ellenállás-hálózat** egy egyszerű, de hatékony módja az impedancia illesztésének és a jel csillapításának. Az **R1** és **R2** ellenállások közötti viszonyok meghatározzák a hálózat teljesítményét és a kimeneti jelet.
