@@ -41,7 +41,7 @@ A következő beállítások kerültek alkalmazásra a mérés során:
 <br>
  Johansson 8202
 <details>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/johansson8202.png"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/johansson8202.png"/>
 </details>
 
 ## 3. Mérés
@@ -53,7 +53,7 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 <br>
  METEK HD
 <details>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/METEKHD.png"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/METEKHD.png"/>
 </details>
 
 **DVB-T jel mérése és értékelése**  
@@ -76,9 +76,9 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 
        
 <details>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0001.bmp"/>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0003.bmp"/>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0002.bmp"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0001.bmp"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0003.bmp"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0002.bmp"/>
 </details>
 
 <br>
@@ -87,9 +87,9 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 
      
 <details>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0006.bmp"/>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0005.bmp"/>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0004.bmp"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0006.bmp"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0005.bmp"/>
+   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0004.bmp"/>
 </details>
 
 <br>
