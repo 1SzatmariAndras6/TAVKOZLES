@@ -57,11 +57,18 @@
 
 ---
     
-- **Eredmények összehasonlítása:**
+### Eredmények összehasonlítása
 
+- **Bemeneti és Kimeneti Impedancia**:
+  - **Számított**: 1784.8 Ω
+  - **Mért**: 1784.8 Ω
+- **Átviteli Arány és Csillapítás**:
+  - **Számított csillapítás**: 1.33 dB
+  - **Mért csillapítás**: A csillapítás mért értéke kisebb eltéréseket mutathat a mérési hibák és környezeti tényezők miatt.
 
-- **Megjegyzések:**
- 
-    ---
-    
-A **T ellenállás-hálózat** egy egyszerű, de hatékony módja az impedancia illesztésének és a jel csillapításának. Az **R1** és **R2** ellenállások közötti viszonyok meghatározzák a hálózat teljesítményét és a kimeneti jelet.
+### Megjegyzések
+- **Mérési hibák**: A mérőeszközök kalibrálása és a csatlakozások hatással lehetnek az eredményekre.
+- **Alkatrész variációk**: Az ellenállások tűrései miatt az elméleti és mért értékek eltérhetnek.
+- **Feszültség és áram mérések**: A mérési eszközök pontossága, mint a jelgenerátor és az oszcilloszkóp, befolyásolhatják az eredményeket.
+
+Az eredmények összehasonlítása segít a mérési környezet és eszközök hatásainak megértésében.
