@@ -18,4 +18,7 @@
 
 ---
 
-#Ábra: 
+# Ábra: 
+
+<br>
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/5e951d5149058ee1226aa7e69a42019efbca4d91/JEGYZOKONYV/01%20-%20T%20m%C3%A9r%C3%A9si%20feladat/attenuator-resistive-t-section-pad.svg">
