@@ -1,4 +1,4 @@
-# ANTENNA MÉRÉSI JEGYZŐKÖNYV
+# Méréstechnikai Feladat: T Ellenállás-hálózat
 ---
 
 - **Mérés helye**: V3 labor,
@@ -17,3 +17,5 @@
 - vagy **NI MYDAQ**
 
 ---
+
+#Ábra: 
