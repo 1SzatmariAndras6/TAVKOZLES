@@ -53,7 +53,7 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 <br>
  METEK HD
 <details>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/METEKHD.png"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/METEKHD.png"/>
 </details>
 
 **DVB-T jel mérése és értékelése**  
@@ -76,9 +76,8 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 
        
 <details>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0001.bmp"/>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0003.bmp"/>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0002.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0001.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0002.bmp"/>
 </details>
 
 <br>
@@ -87,9 +86,9 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 
      
 <details>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0006.bmp"/>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0005.bmp"/>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/its_snapshot_0004.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0006.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0005.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0004.bmp"/>
 </details>
 
 <br>
@@ -97,9 +96,9 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
       Jelszint 64-QAM: -31.6 dBm  
      
 <details>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0008.bmp"/>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0009.bmp"/>
-   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0007.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0008.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0009.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/its_snapshot_0007.bmp"/>
 </details>  
 
 ### 5. Jelszint
