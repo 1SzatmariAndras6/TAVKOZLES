@@ -32,6 +32,9 @@
 ## Jegyzőkönyv Szempontok
 
 - **Ellenállások értékei:** R1 és R2 mért értékei.
+- R1, R2: 264 Ω, 264 Ω ,
+- R3: 900 Ω
+- Rg: 680 Ω
 - **Mérési eredmények:**
   - Bemeneti impedancia (Ω)
   - Kimeneti impedancia (Ω)
