@@ -39,63 +39,28 @@
 - R3: 900 Ω
 - Rg: 680 Ω
 - **Mérési eredmények:**
-  - Bemeneti impedancia (Ω)
-  - Kimeneti impedancia (Ω)
-  - Átviteli arány (dB)
-  - Csillapítás (dB)
-
- ## T-tag Ellenállások Számítása (6 dB Csillapítás és 680 Ohm Impedancia)
+ Rm=  338.4 Ω
+ Rs=Rl=2045.9 Ω
+- **Bemeneti impedancia**: 1784.8 Ω  
+- **Kimeneti impedancia**: 1784.8 Ω  
+- **Átviteli arány**: -1.33 dB  
+- **Csillapítás**: 1.33 dB
+  - 2045.9(2722.72384.3)≈2045.9×0.8746≈1784.8Ω
+  - TdB=20log10(T)=20log10(0.8585)≈−1.33dB
+  - A=−TdB =1.33dB
+  
+ ## T-tag Ellenállások Számítása
 
 ### Adatok
 - **Impedancia (\(Z\))**: 680 Ω
 - **Csillapítás (\(A\))**: 6 dB
 
-### Képletek
-1. **Csillapítás lineáris aránya (\(K\)):**
-   \[
-   K = 10^{\frac{\text{Csillapítás (dB)}}{20}}
-   \]
-2. **Oldalsó ellenállások (\(R_s\) és \(R_l\)):**
-   \[
-   R_s = R_l = Z \cdot \frac{K + 1}{K - 1}
-   \]
-3. **Középső ellenállás (\(R_m\)):**
-   \[
-   R_m = \frac{Z}{2} \cdot (K - 1)
-   \]
-
-### Számítás
-1. **Csillapítás lineáris aránya (\(K\)):**
-   \[
-   K = 10^{\frac{6}{20}} \approx 1.9953
-   \]
-
-2. **Oldalsó ellenállások (\(R_s\) és \(R_l\)):**
-   \[
-   R_s = R_l = 680 \cdot \frac{1.9953 + 1}{1.9953 - 1}
-   \]
-   \[
-   R_s = R_l \approx 680 \cdot \frac{2.9953}{0.9953} \approx 2045.9 \, \Omega
-   \]
-
-3. **Középső ellenállás (\(R_m\)):**
-   \[
-   R_m = \frac{680}{2} \cdot (1.9953 - 1)
-   \]
-   \[
-   R_m \approx 340 \cdot 0.9953 \approx 338.4 \, \Omega
-   \]
-
-### Eredmények
-- **\(R_m\)**: 338.4 Ω
-- **\(R_s = R_l\)**: 2045.9 Ω
 ---
     
 - **Eredmények összehasonlítása:**
 
 
 - **Megjegyzések:**
- 
  
     ---
     
