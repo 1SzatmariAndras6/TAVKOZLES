@@ -41,7 +41,7 @@ A következő beállítások kerültek alkalmazásra a mérés során:
 <br>
  Johansson 8202
 <details>
-   <img src=" https://1szatmariandras6.github.io/TAVKOZLES/johansson8202.png"/>
+   <img src="https://1szatmariandras6.github.io/TAVKOZLES/johansson8202.png"/>
 </details>
 
 ## 3. Mérés
