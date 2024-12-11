@@ -29,6 +29,9 @@
 <br>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/01.%20-%20T%20m%C3%A9r%C3%A9si%20feladat/K%C3%A9perny%C5%91k%C3%A9p%202024-12-11%20090144.png">
 
+<br>
+<img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/01.%20-%20T%20m%C3%A9r%C3%A9si%20feladat/1733906209313.jpg>
+  
 ## Jegyzőkönyv Szempontok
 
 - **Ellenállások értékei:** R1 és R2 mért értékei.
