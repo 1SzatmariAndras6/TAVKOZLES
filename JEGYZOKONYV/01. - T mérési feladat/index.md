@@ -45,6 +45,7 @@
 - R1, R2: 264 Ω, 264 Ω ,
 - R3: 900 Ω
 - Rg: 680 Ω
+  
 - **Mérési eredmények:**
  Rm=  338.4 Ω
  Rs=Rl=2045.9 Ω
@@ -56,7 +57,7 @@
   - TdB=20log10(T)=20log10(0.8585)≈−1.33dB
   - A=−TdB =1.33dB
   
- ## T-tag Ellenállások Számítása
+## T-tag Ellenállások Számítása
 
 ### Adatok
 - **Impedancia (\(Z\))**: 680 Ω
@@ -69,7 +70,7 @@
 - **Bemeneti és Kimeneti Impedancia**:
   - **Számított**: 1784.8 Ω
   - **Mért**: 1784.8 Ω
-- **Átviteli Arány és Csillapítás**:
+  - **Átviteli Arány és Csillapítás**:
   - **Számított csillapítás**: 1.33 dB
   - **Mért csillapítás**: A csillapítás mért értéke kisebb eltéréseket mutathat a mérési hibák és környezeti tényezők miatt.
 
