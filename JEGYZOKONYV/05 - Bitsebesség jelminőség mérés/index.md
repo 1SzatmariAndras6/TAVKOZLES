@@ -45,11 +45,7 @@ A jegyzőkönyv tartalmazza:
 
 | Mérési paraméter   | RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
 |--------------------|---------------------|--------------|--------------------|----------------|----------------|
-| Mérési eredmény 1  | 674                 | TV1          | 15                 | 70             | 38             |
-| Mérési eredmény 2  | 682                 | TV2          | 10                 | 70             | 40             |
-| Mérési eredmény 3  | 682                 | TV2          | 21.5 (max)         | 68             | 35             |
+| Mérési eredmény 1  |                     | TV1          |                    |                |                |
+| Mérési eredmény 2  |                     | TV2          |                    |                |                |
+| Mérési eredmény 3  |                     | TV2          |                    |                |                |
 
-## Időtartam
-- **Modulátor beállítása**: 30 perc
-- **Mérések**: 60 perc
-- **Jegyzőkönyvezés**: 30 perc
