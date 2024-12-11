@@ -33,6 +33,9 @@
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/01.%20-%20T%20m%C3%A9r%C3%A9si%20feladat/K%C3%A9perny%C5%91k%C3%A9p%202024-12-11%20094633.png">
 
   <details/>
+    
+---
+    
 ## 3. Számolások, értékek
 
 - **Ellenállások értékei:** R1 és R2 mért értékei.
