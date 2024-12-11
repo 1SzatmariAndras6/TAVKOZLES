@@ -5,11 +5,9 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 
 ---
 
-- **Mérés helye**: V3 labor, belső udvar, hátsó udvar
-- **Mérés időpontja**: 2024.10.09
-- **Mérő műszerek**:  METEK HDD
+- **Mérés helye**: V3 labor,
+- **Mérés időpontja**: 2024.12.11
 - **Felelős személy**: Szatmári András
-- **Cél**: Antennák nyereségének meg mérése
   
 ---
 
