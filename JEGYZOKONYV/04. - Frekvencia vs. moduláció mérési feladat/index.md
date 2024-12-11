@@ -1,6 +1,18 @@
 # Cél
 A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigurációs lehetőségeit, és méréseket végezzenek a METEK HD spektrum/jelszint analizátorral. A mérési eredményeket rögzítik jegyzőkönyv formájában.
 
+# ANTENNA MÉRÉSI JEGYZŐKÖNYV
+
+---
+
+- **Mérés helye**: V3 labor, belső udvar, hátsó udvar
+- **Mérés időpontja**: 2024.10.09
+- **Mérő műszerek**:  METEK HDD
+- **Felelős személy**: Szatmári András
+- **Cél**: Antennák nyereségének meg mérése
+  
+---
+
 # Eszközök
 - Johansson 8202 DVB-T modulátor
 - RF kábel
