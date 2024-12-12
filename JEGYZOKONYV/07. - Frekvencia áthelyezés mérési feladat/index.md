@@ -103,5 +103,3 @@ A vizsgálatokat a megadott módon elvégeztük, és az adatokat megfelelően do
 |                |       E48        |       CH 46          |      690MHz        |        674MHz          |     56 dBu             |        174.8dBu        |
 
 ---
-
-## Jegyzőkönyv Lezárása
