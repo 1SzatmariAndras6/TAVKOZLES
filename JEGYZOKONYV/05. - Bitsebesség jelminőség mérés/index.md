@@ -1,7 +1,5 @@
 # Mérési Feladat: Bitsebesség és Jelminőség Hatása
 
-## Cél
-A feladat célja, hogy megértsük a különböző bitsebességek hatását a DVB-T jelek minőségére a Johansson 8202 modulátor használatával, különös figyelmet fordítva a többcsatornás jelgenerálásra.
 
 ## Eszközök
 - 2db Johansson 8202 DVB-T modulátor
@@ -9,6 +7,10 @@ A feladat célja, hogy megértsük a különböző bitsebességek hatását a DV
 - RF kábelek
 - METEK HD spektrum/jelszint analizátor
 - Laptop jegyzőkönyv készítéséhez
+### Cél
+A feladat célja, hogy megértsük a különböző bitsebességek hatását a DVB-T jelek minőségére a Johansson 8202 modulátor használatával, különös figyelmet fordítva a többcsatornás jelgenerálásra.
+
+---
 
 ## Feladat
 
@@ -18,15 +20,21 @@ A feladat célja, hogy megértsük a különböző bitsebességek hatását a DV
 - **Sávszélesség**: 8 MHz.
 - **Bitsebesség beállítása**: TV1: 15 Mbps, TV2: 10 Mbps.
 
+  ---
+
 ### 2. DVB-T jel mérés és stream ellenőrzés
 - Mérni kell a következő paramétereket:
   - Jelszint (dBm)
   - Modulation Error Ratio (MER)
   - Bitsebesség
+ 
+    ---
 
 ### 3. Bitsebesség és jelminőség összefüggése
 - **Bitsebesség változtatása**: TV2 bitsebességének növelése 10 Mbps-ról MAXIMUM-ra.
 - Mérni a jelszintet, MER-t és a vevő reakcióját.
+
+  ---
 
 ### 4. Jegyzőkönyv készítése
 A jegyzőkönyv tartalmazza:
@@ -37,9 +45,13 @@ A jegyzőkönyv tartalmazza:
 - **Bitsebesség (Mbps)**
 - **MER érték (dB)**
 
+  ---
+
 ### 5. Összegzés és Kiértékelés
 - **Összehasonlítás**: Melyik bitsebesség biztosította a legjobb jelminőséget mindkét program számára?
 - **Optimális beállítások**: Hogyan lehet javítani a többcsatornás jelek sugárzását?
+
+---
 
 ## Jegyzőkönyv Sablon
 
@@ -49,3 +61,4 @@ A jegyzőkönyv tartalmazza:
 | Mérési eredmény 2  |                     | TV2          |                    |                |                |
 | Mérési eredmény 3  |                     | TV2          |                    |                |                |
 
+---
