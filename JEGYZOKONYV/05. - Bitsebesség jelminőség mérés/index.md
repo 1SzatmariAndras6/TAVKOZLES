@@ -1,4 +1,4 @@
-# M érési Feladat: Bitsebesség és Jelminőség Hatása
+# Mérési Feladat: Bitsebesség és Jelminőség Hatása
 
 ---
 
