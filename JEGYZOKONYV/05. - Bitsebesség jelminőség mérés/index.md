@@ -1,5 +1,6 @@
-# Mérési Feladat: Bitsebesség és Jelminőség Hatása
+# M érési Feladat: Bitsebesség és Jelminőség Hatása
 
+---
 
 ## Eszközök
 - 2db Johansson 8202 DVB-T modulátor
