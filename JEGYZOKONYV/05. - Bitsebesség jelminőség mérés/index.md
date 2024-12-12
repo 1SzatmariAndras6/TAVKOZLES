@@ -58,8 +58,8 @@ A jegyzőkönyv tartalmazza:
 
 | Mérési paraméter   | RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
 |--------------------|---------------------|--------------|--------------------|----------------|----------------|
-| Mérési eredmény 1  |                     | TV1          |                    |                |                |
-| Mérési eredmény 2  |                     | TV2          |                    |                |                |
-| Mérési eredmény 3  |                     | TV2          |                    |                |                |
+| Mérési eredmény 1  |                     |              |                    |                |                |
+| Mérési eredmény 2  |                     |              |                    |                |                |
+| Mérési eredmény 3  |                     |              |                    |                |                |
 
 ---
