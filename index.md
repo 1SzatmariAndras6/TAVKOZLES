@@ -1,4 +1,4 @@
-#  Távközlési technikus mérési jegyzőkönyvek - Szatmári András
+# Távközlési technikus mérési jegyzőkönyvek - Szatmári András
 
 ---
 <link rel="stylesheet" href="style.css">
