@@ -1,6 +1,10 @@
-# Távközlési technikus mérési jegyzőkönyvek - Szatmári András
 
 ---
+<head>
+       <title> Távközlési technikus mérési jegyzőkönyvek - Szatmári András</title>
+        <style>
+            body {}
+
 
 <body style="background-color: #707b7c;">
 
@@ -11,5 +15,6 @@
 - [04 Frekvencia moduláció mérése](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/04. - Frekvencia vs. moduláció mérési feladat)
 - [01 T mérési Feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/01. - T mérési feladat)
 
+</body>
 ---
 
