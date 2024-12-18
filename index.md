@@ -1,23 +1,8 @@
+#  Távközlési technikus mérési jegyzőkönyvek - Szatmári András
 
 ---
-<head>
-    <link rel="stylesheet" href="style.css">
-       <title>Távközlési technikus mérési jegyzőkönyvek - Szatmári András</title>
-        <style>
-            body {
-                background-color: gray;
-            }
-            h1{
-                color:white;
-            }
-            p{
-                background-color:gray;
-                color:white;
-            }
-            </style>
-            </head>
-
-<body style="background-color: #707b7c;">
+<link rel="stylesheet" href="style.css">
+      
 
 - [03 Mérés - Antennák teljesítménye](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/03. - Antenna mérési feladat/)
 - [06 Antenna jelszint](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/06. Antenna jelszint/)
