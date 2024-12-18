@@ -74,7 +74,7 @@ Az alábbi mérési eredmények alapján látható, hogy a bitsebesség növeked
   
   Diagramm:
 
-  <img width="200" src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/05.%20-%20Bitsebess%C3%A9g%20jelmin%C5%91s%C3%A9g%20m%C3%A9r%C3%A9s/9772640a-cde7-45e4-8f24-9ededfb55cda.png">
+  <img width="600" src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/05.%20-%20Bitsebess%C3%A9g%20jelmin%C5%91s%C3%A9g%20m%C3%A9r%C3%A9s/9772640a-cde7-45e4-8f24-9ededfb55cda.png">
 
 ---
 
