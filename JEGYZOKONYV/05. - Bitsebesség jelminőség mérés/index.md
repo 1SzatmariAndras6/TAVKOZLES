@@ -2,14 +2,20 @@
 
 ---
 
+- **Mérés helye**: V3 labor
+- **Mérés időpontja**: 2024.12.18
+- **Felelős személy**: Szatmári András
+- ### Cél:
+A feladat célja, hogy megértsük a különböző bitsebességek hatását a DVB-T jelek minőségére a Johansson 8202 modulátor használatával, különös figyelmet fordítva a többcsatornás jelgenerálásra.
+---
+
+
 ## Eszközök
 - 2db Johansson 8202 DVB-T modulátor
 - DVB-T vevő (pl. TV vagy mérőműszer)
 - RF kábelek
 - METEK HD spektrum/jelszint analizátor
 - Laptop jegyzőkönyv készítéséhez
-### Cél
-A feladat célja, hogy megértsük a különböző bitsebességek hatását a DVB-T jelek minőségére a Johansson 8202 modulátor használatával, különös figyelmet fordítva a többcsatornás jelgenerálásra.
 
 ---
 
