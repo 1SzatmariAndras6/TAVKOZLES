@@ -58,7 +58,15 @@ Az alábbi mérési eredmények alapján látható, hogy a bitsebesség növeked
 
 <br>
   <deatils>
-  <img src=>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/05.%20-%20Bitsebess%C3%A9g%20jelmin%C5%91s%C3%A9g%20m%C3%A9r%C3%A9s/its_snapshot_0001%20(2).bmp">
+    <br>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/05.%20-%20Bitsebess%C3%A9g%20jelmin%C5%91s%C3%A9g%20m%C3%A9r%C3%A9s/its_snapshot_0002%20(2).bmp">
+    <br>
+     bitsebesség
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/05.%20-%20Bitsebess%C3%A9g%20jelmin%C5%91s%C3%A9g%20m%C3%A9r%C3%A9s/its_snapshot_0003%20(1).bmp">
+
+<br> MER,jelszint
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/05.%20-%20Bitsebess%C3%A9g%20jelmin%C5%91s%C3%A9g%20m%C3%A9r%C3%A9s/its_snapshot_0004%20(1).bmp">
   </details>
 
 ---
