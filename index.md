@@ -1,7 +1,7 @@
 # Távközlési technikus mérési jegyzőkönyvek - Szatmári András
 
 ---
-<link rel="stylesheet" href="style.css">
+
       
 
 - [03 Mérés - Antennák teljesítménye](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/03. - Antenna mérési feladat/)
