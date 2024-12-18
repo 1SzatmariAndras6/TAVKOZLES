@@ -21,7 +21,7 @@
 ## Feladat
 
 ### 1. Modulátor konfiguráció
-- **RF frekvenciák beállítása**: 674 MHz és 682 MHz.
+- **RF frekvenciák beállítása**: 698MHz és 690MHz
 - **Moduláció**: 64-QAM.
 - **Sávszélesség**: 8 MHz.
 - **Bitsebesség beállítása**: TV1: 15 Mbps, TV2: 10 Mbps.
@@ -30,9 +30,9 @@
 
 ### 2. DVB-T jel mérés és stream ellenőrzés
 - Mérni kell a következő paramétereket:
-  - Jelszint (dBm)
-  - Modulation Error Ratio (MER)
-  - Bitsebesség
+  - Jelszint (dBm): 
+  - Modulation Error Ratio (MER):
+  - Bitsebesség :
  
     ---
 
@@ -63,8 +63,8 @@ A jegyzőkönyv tartalmazza:
 
 | Mérési paraméter   | RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
 |--------------------|---------------------|--------------|--------------------|----------------|----------------|
-| Mérési eredmény 1  |                     |              |                    |                |                |
-| Mérési eredmény 2  |                     |              |                    |                |                |
-| Mérési eredmény 3  |                     |              |                    |                |                |
+| Mérési eredmény 1  |     690MHz          |   Tv2        |    12.68Mbps       |  - 35.2dBm     |     40dB       |
+| Mérési eredmény 2  |     698MHz          |   Tv1        |    14.029Mbps      |  - 31.9dBm     |     34.4dB     |
+| Mérési eredmény 3  |     690MHz          |   Tv2        |    18.9mBps(max)   |  - 35.2dbm     |     39.4dB     |
 
 ---
