@@ -5,8 +5,7 @@
 - **Mérés helye**: V3 labor
 - **Mérés időpontja**: 2024.12.18
 - **Felelős személy**: Szatmári András
-- ### Cél:
-A feladat célja, hogy megértsük a különböző bitsebességek hatását a DVB-T jelek minőségére a Johansson 8202 modulátor használatával, különös figyelmet fordítva a többcsatornás jelgenerálásra.
+- ### Cél: A feladat célja, hogy megértsük a különböző bitsebességek hatását a DVB-T jelek minőségére a Johansson 8202 modulátor használatával, különös figyelmet fordítva a többcsatornás jelgenerálásra.
 ---
 
 
