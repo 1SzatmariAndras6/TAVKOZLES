@@ -1,6 +1,7 @@
 
 ---
 <head>
+    <link rel="stylesheet" href="style.css">
        <title> Távközlési technikus mérési jegyzőkönyvek - Szatmári András</title>
         <style>
             body {
