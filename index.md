@@ -1,7 +1,5 @@
 # Távközlési technikus mérési jegyzőkönyvek - Szatmári András
 
-<div style="background-image: url('https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/sotet-hatterkep-692968.jpg'); background-size: cover; height: 400; color: white; display: flex; justify-content: center; align-items: center; text-align: center;">
-  
 ---
 
 - [03 Mérés - Antennák teljesítménye](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/03. - Antenna mérési feladat/)
