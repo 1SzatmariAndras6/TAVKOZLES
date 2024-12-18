@@ -3,8 +3,18 @@
 <head>
        <title> Távközlési technikus mérési jegyzőkönyvek - Szatmári András</title>
         <style>
-            body {}
-
+            body {
+                background-color: gray;
+            }
+            h1{
+                color:white;
+            }
+            p{
+                background-color:gray;
+                color:white;
+            }
+            </style>
+            </head>
 
 <body style="background-color: #707b7c;">
 
