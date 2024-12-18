@@ -46,13 +46,13 @@ Az alábbi mérési eredmények alapján látható, hogy a bitsebesség növeked
 
 - **Optimális beállítások**:
   
-  1 Az RF frekvenciák közötti interferencia minimalizálásához javasolt a csatornák gondos elosztása. A 690 MHz frekvencia jobb eredményeket adott, ezért előnyben részesíthető.  
+  - Az RF frekvenciák közötti interferencia minimalizálásához javasolt a csatornák gondos elosztása. A 690 MHz frekvencia jobb eredményeket adott, ezért előnyben részesíthető.  
 
-  2 A jelminőség (MER) javítása érdekében érdemes alacsonyabb bitsebességet használni, különösen olyan programoknál, ahol a stabil jel elengedhetetlen.  
+  - A jelminőség (MER) javítása érdekében érdemes alacsonyabb bitsebességet használni, különösen olyan programoknál, ahol a stabil jel elengedhetetlen.  
 
-  3 A sugárzási teljesítményt növelni szükséges, különösen 698 MHz esetében, ahol a jelszint gyengébb volt.  
+  - A sugárzási teljesítményt növelni szükséges, különösen 698 MHz esetében, ahol a jelszint gyengébb volt.  
 
-  4 Ajánlott adaptív modulációs technológiák alkalmazása, amelyek az aktuális környezeti feltételekhez igazítják a bitsebességet és a modulációt.  
+  - Ajánlott adaptív modulációs technológiák alkalmazása, amelyek az aktuális környezeti feltételekhez igazítják a bitsebességet és a modulációt.  
 
 # Képek:
 
