@@ -29,29 +29,30 @@
 ---
 
 
-## 3. Bitsebesség és Jelminőség Összefüggése
+## 2. Bitsebesség és Jelminőség Összefüggése
 
 Az alábbi mérési eredmények alapján látható, hogy a bitsebesség növekedése általában csökkenti a jelminőséget, mivel a MER (Modulation Error Ratio) értékei alacsonyabbak lesznek magasabb bitsebességnél. Ugyanakkor az RF frekvencia is befolyásolja az eredményeket, mivel a különböző frekvenciák eltérően viselkedhetnek a jelek sugárzásakor.
 
 ---
 
 
-### 5. Összegzés és Kiértékelés
+### 3. Összegzés és Kiértékelés
 
 **Összehasonlítás**:  
   A mérési eredmények alapján a legjobb jelminőséget (MER) a **TV2 program érte el 690 MHz-en**, 12.68 Mbps bitsebességgel, ahol az MER értéke 40 dB volt.  
   A **TV1 programnál** a legjobb MER érték 34.4 dB volt 14.029 Mbps bitsebességnél és 698 MHz frekvencián.  
   Az eredmények azt mutatják, hogy az alacsonyabb bitsebesség és kedvezőbb RF környezet jelentősen hozzájárul a jobb jelminőséghez.
 
-- **Optimális beállítások**:  
-  1. **Frekvenciaoptimalizálás**: Az RF frekvenciák közötti interferencia minimalizálása érdekében érdemes gondosan megválasztani a csatornák elosztását. A 690 MHz frekvencia jobb eredményeket mutatott, ezért ez előnyben részesíthető.  
-  2. **Bitsebesség szabályozása**: Magasabb MER értékek érdekében érdemes alacsonyabb bitsebességet alkalmazni, különösen olyan programoknál, ahol a jel stabilitása kritikus.  
-  3. **Sugárzási teljesítmény növelése**: A jelszint javítása érdekében szükséges lehet nagyobb sugárzási teljesítményt biztosítani, különösen 698 MHz-en, ahol a jelminőség gyengébb volt.  
-  4. **Adaptív modulációs technológia**: A különböző csatornák számára érdemes adaptív modulációs technológiát alkalmazni, amely automatikusan az optimális bitsebességet és modulációs formát választja ki a jelminőség fenntartásához.  
+- **Optimális beállítások**:
+  
+  1. Az RF frekvenciák közötti interferencia minimalizálásához javasolt a csatornák gondos elosztása. A 690 MHz frekvencia jobb eredményeket adott, ezért előnyben részesíthető.  
+  2. A jelminőség (MER) javítása érdekében érdemes alacsonyabb bitsebességet használni, különösen olyan programoknál, ahol a stabil jel elengedhetetlen.  
+  3. A sugárzási teljesítményt növelni szükséges, különösen 698 MHz esetében, ahol a jelszint gyengébb volt.  
+  4. Ajánlott adaptív modulációs technológiák alkalmazása, amelyek az aktuális környezeti feltételekhez igazítják a bitsebességet és a modulációt.  
 
 ---
 
-## Mérési redmények
+## 4. Mérési redmények
 
 | Mérési paraméter   | RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
 |--------------------|---------------------|--------------|--------------------|----------------|----------------|
