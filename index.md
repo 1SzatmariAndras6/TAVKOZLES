@@ -2,7 +2,7 @@
 ---
 <head>
     <link rel="stylesheet" href="style.css">
-       <title> Távközlési technikus mérési jegyzőkönyvek - Szatmári András</title>
+       <title>Távközlési technikus mérési jegyzőkönyvek - Szatmári András</title>
         <style>
             body {
                 background-color: gray;
@@ -19,7 +19,7 @@
 
 <body style="background-color: #707b7c;">
 
-- <p style="background-color:gray; color:white;">[03 Mérés - Antennák teljesítménye](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/03. - Antenna mérési feladat/)
+- [03 Mérés - Antennák teljesítménye](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/03. - Antenna mérési feladat/)
 - [06 Antenna jelszint](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/06. Antenna jelszint/)
 - [07 Frekvencia áthelyezés mérési feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/07. - Frekvencia áthelyezés mérési feladat)
 - [05 Bitsebesség jelminőség mérés](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/05. - Bitsebesség jelminőség mérés)
