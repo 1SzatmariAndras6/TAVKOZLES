@@ -25,6 +25,10 @@
   <br>
   
 - [01 T mérési Feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/01. - T mérési feladat)
+
+    <br>
+  
+- [08 Tranzisztor működésének vizsgálata](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/08 Tranzisztor működésének vizsgálata)
   
 ---
 
