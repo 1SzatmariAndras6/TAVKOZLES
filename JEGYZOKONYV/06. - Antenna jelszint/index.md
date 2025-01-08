@@ -96,7 +96,7 @@
 <br>
 
 730 MHz Diagramm:
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/Antenna%20parame%CC%81terek%20o%CC%88sszehasonli%CC%81ta%CC%81sa%20optimaliza%CC%81lt%20ska%CC%81la%CC%81za%CC%81ssal.png"/>
+<img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/06.%20-%20Antenna%20jelszint/534475bb-44e2-486c-8e35-bd3481a813fb.jpg"/>
 
 <br>
 Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, bitsebesség és MER érték) ábrázolja a 730 MHz-es frekvencián. A következő elemeket tartalmazza:
