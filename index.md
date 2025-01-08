@@ -32,7 +32,7 @@
 
     <br>
 
-- [08 TT mérési feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/08. - TT mérési feladat)
+- [08 TT mérési feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/08. - TT mérési feladat/)
 
   <br>
   
