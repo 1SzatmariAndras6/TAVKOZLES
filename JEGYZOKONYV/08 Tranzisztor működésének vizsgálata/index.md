@@ -23,3 +23,13 @@
 | 0.8 V          | 1.9 V           | 8,63 mA      | 0.8 V   | 2,25    | 0,010   |
 | 0.9 V          | 2.9 V           | 13,1 mA      | 0.9 V   | 2,63    | 0,011   |
 | 1 V            | 3,45 V          | 15,6 mA      | 1 V     | 2,64    | 0,012   |
+
+Kapcsolás és szimuláció:
+
+<details>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/34ea74ed-a492-4cd9-8620-8c7f7d669d05.jpeg">
+  <br>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/K%C3%A9perny%C5%91k%C3%A9p%202025-01-08%20102158.png">
+  <br>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/6ea56984-c57e-4ed2-83a1-62d3b5a950ed.jpeg">
+</details>
