@@ -6,9 +6,9 @@
 
 <details>
 <summary>Képek</summary>
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/61B4PnAml%2BL.SS700.jpg">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/09.%20-%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/61B4PnAml%2BL.SS700.jpg">
 <br>
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/digital_multimeter_m_3800_2013949.jpg">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/09.%20-%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/digital_multimeter_m_3800_2013949.jpg">
 </details>
 
 
@@ -47,9 +47,9 @@ Kapcsolás és szimuláció:
   <br>
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/image.png">
   <br>
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/34ea74ed-a492-4cd9-8620-8c7f7d669d05.jpeg">
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/09.%20-%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/34ea74ed-a492-4cd9-8620-8c7f7d669d05.jpeg">
   <br>
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/K%C3%A9perny%C5%91k%C3%A9p%202025-01-08%20102158.png">
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/09.%20-%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/6ea56984-c57e-4ed2-83a1-62d3b5a950ed.jpeg">
   <br>
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/6ea56984-c57e-4ed2-83a1-62d3b5a950ed.jpeg">
+  <img src="">
 </details>
