@@ -7,7 +7,7 @@
 
 
 
-| Szimuláció Ube | Szimuláció Urc  | Szimuláció Ic| Ube (V) | Urck (V) | Ic (A) |
+| Szimuláció Ube | Szimuláció Urc  | Szimuláció Ic| Ube (V) | Urc (V) | Ic (A) |
 |----------------|-----------------|--------------|---------|----------|--------|
 |  0.1 V         |     3,24V       |    1,47mA    |         |    0     |        |
 |  0.2V          |     5,2V        |    2,36mA    |         |    0     |        |
