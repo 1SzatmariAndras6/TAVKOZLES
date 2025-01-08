@@ -1,12 +1,10 @@
 
-## Eszközök:
+## Alkatrészek/Eszközök:
  1. ellenállás: 220 ohm
  2. ellenállás: 1,48k
- 3. tranzisztor: 
+ 3. tranzisztor: 97 
 
-
-
-
+<img src="
 | Szimuláció Ube | Szimuláció Urc  | Szimuláció Ic| Ube (V) | Urc (V) | Ic (A) |
 |----------------|-----------------|--------------|---------|----------|--------|
 |  0.1 V         |     3,24V       |    1,47mA    |  0.1 V  |    0     |        |
