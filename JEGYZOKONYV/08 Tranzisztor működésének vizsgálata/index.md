@@ -10,6 +10,20 @@
 <br>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/digital_multimeter_m_3800_2013949.jpg">
 </details>
+| Ube (V) | Urc (V) | Ic (mA) |
+|---------|---------|---------|
+| 0.1     | -0.1    | 0.000   |
+| 0.2     | 0.0     | 0.000   |
+| 0.3     | 0.1     | 0.455   |
+| 0.4     | 0.2     | 0.909   |
+| 0.5     | 0.3     | 1.364   |
+| 0.6     | 0.4     | 1.818   |
+| 0.7     | 0.5     | 2.273   |
+| 0.8     | 0.6     | 2.727   |
+| 0.9     | 0.7     | 3.182   |
+| 1.0     | 0.8     | 3.636   |
+
+<br>
 
 | Szimuláció Ube | Szimuláció Urc  | Szimuláció Ic| Ube (V) | Urc (V) | Ic (A)  |
 |----------------|-----------------|--------------|---------|---------|---------|
