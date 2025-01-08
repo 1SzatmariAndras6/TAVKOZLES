@@ -2,9 +2,13 @@
 ## Alkatrészek/Eszközök:
  1. ellenállás: 220 ohm
  2. ellenállás: 1,48k
- 3. tranzisztor: 97 
-
-<img src="
+ 3. tranzisztor: 97
+    <br>
+<details>
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/61B4PnAml%2BL.SS700.jpg">
+ <br>
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/08%20Tranzisztor%20m%C5%B1k%C3%B6d%C3%A9s%C3%A9nek%20vizsg%C3%A1lata/digital_multimeter_m_3800_2013949.jpg">
+ </details>
 | Szimuláció Ube | Szimuláció Urc  | Szimuláció Ic| Ube (V) | Urc (V) | Ic (A) |
 |----------------|-----------------|--------------|---------|----------|--------|
 |  0.1 V         |     3,24V       |    1,47mA    |  0.1 V  |    0     |        |
