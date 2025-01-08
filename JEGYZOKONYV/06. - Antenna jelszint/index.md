@@ -147,10 +147,10 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20-%20Antenna%20jelszint/3913-1.png"/>
    <br>
    3. kép: 490MHz
-    <img src=""/>
+    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20-%20Antenna%20jelszint/its_snapshot_0003.bmp"/>
     730MHz :
   <br>
-   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0054.bmp"/>
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20-%20Antenna%20jelszint/its_snapshot_0054.bmp"/>
     
 
  </details>
