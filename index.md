@@ -8,7 +8,7 @@
   
   <br>
   
-- [06 Antenna jelszint](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/06. Antenna jelszint/)
+- [06 Antenna jelszint](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/06. - Antenna jelszint/)
   
   <br>
   
@@ -28,7 +28,9 @@
 
     <br>
   
-- [08 Tranzisztor működésének vizsgálata](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/08 Tranzisztor működésének vizsgálata)
-  
+- [09 Tranzisztor működésének vizsgálata](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/09. - Tranzisztor működésének vizsgálata)
+
+    <br>
+- [08 TT mérési feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/08. - TT mérési feladat)
 ---
 
