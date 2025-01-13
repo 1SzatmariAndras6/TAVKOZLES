@@ -62,6 +62,10 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 ### Mérés képekkel
 <br>
 
+<details>
+   <img src="
+</details>
+
        Jelszint QPSK: -30.7 dBm
 
        
