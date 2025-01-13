@@ -1,5 +1,3 @@
-
-
 # ANTENNA MÉRÉSI JEGYZŐKÖNYV
 
 ---
@@ -55,7 +53,7 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
      - Jelszint 64-QAM: -31.6 dBm
 ### 4. Mérési Paraméterek
 
-| Mérési paraméter      | RF frekvencia (MHz) | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
+|    Mérési paraméter   | RF frekvencia (MHz) | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
 |-----------------------|---------------------|------------------|--------------------|----------------|--------------------|----------------|
 | **Mérési eredmény 1** | 474                 | QPSK             | 8                  | -30.7          | -3.85 Mbps         | -39.9 dB       |
 | **Mérési eredmény 2** | 474                 | 16-QAM           | 8                  | -31.2          | -7.7 Mbps          | -35.5 dB       |
