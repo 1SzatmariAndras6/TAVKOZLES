@@ -63,7 +63,7 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 <br>
 
 <details>
-   <img src="
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/04.%20-%20Frekvencia%20vs.%20modul%C3%A1ci%C3%B3%20m%C3%A9r%C3%A9si%20feladat/ce472aed-4bf6-4590-951f-b5aab0829028.jpg"/>
 </details>
 
        Jelszint QPSK: -30.7 dBm
