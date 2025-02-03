@@ -35,13 +35,21 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 
-## 3. Mérési helyszín és környezet
-- **Antenna magassága:*1,5m* 
-- **Környezet jellemzői:*szoba környezet* 
+## 3. Mérési helyszín és környezet:
+- **Irányszög Dél-nyugat: 234°*
+- **Antenna magassága:*1,5m*
+- **Környezet jellemzői:
+- *szoba környezet*
+- UV: * gyenge 2*
+- páratartalom: * 68%*
+- légnyomás: * 1027*
+  
+  
 - **Adó távolsága:*800m* 
 
 
  ## A feladat végrehajtási pontjai
+
 
 4. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
