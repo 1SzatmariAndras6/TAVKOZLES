@@ -28,6 +28,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Mérőműszer**       | METEK HDD digitális TV jelmérő, koaxiális kábelek és csatlakozók | Jelméréshez szükséges műszer és kábelek |
 | **Jelosztó**         | Ekselans RF-16                                                 | Jelosztó a fejállomás bemeneteire érkező jelekhez, UTP kábelek az IPTV jel továbbításához |
 | **Szerelési eszközök**| Csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő | Szerelési eszközök a telepítéshez |
+| **tp-link router**|                                                                |                                   |
 
 ## 3. Mérési helyszín és környezet:
 - **Irányszög Dél-nyugat:** 234°*
@@ -72,19 +73,22 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 5. **DVB-T jel bevezetése a fejállomásba**
-   - A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba.
+   - A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba:
+        Csatlakoztattuk a kontroll portjára itt lehet konfigurálni
+     -Lemco Ip címe: 192.168.1.200
+   
    - A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
 
 
 
 
-6. **Multicast IP tartomány kiválasztása**
+5. **Multicast IP tartomány kiválasztása**
    - Az IPTV rendszerhez megfelelő Multicast IP tartomány beállítása.
 
 
 
 
-7. **IPTV Set-top-box konfigurálása**
+6. **IPTV Set-top-box konfigurálása**
    - Az IPTV Set-top-boxok beállítása a megfelelő vételhez és stream fogadásához.
 
 
@@ -93,7 +97,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 
-8. **Vételi terület lefedettségének értékelése**
+7. **Vételi terület lefedettségének értékelése**
 
 
 
