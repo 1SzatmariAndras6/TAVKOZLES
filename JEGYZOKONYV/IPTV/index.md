@@ -1,15 +1,10 @@
-A mérést végző neve:
-
-A mérés tárgya: A mérés száma:
-
-A mérés dátuma:
-
+A mérést végző neve: György Péter
+A mérés tárgya és mérés száma: IPTV
+A mérés dátuma: 20025.02.23
 A mérést vezette: Sándor Péter
 
 Évfolyam: 13. E
-
 Csoport: GYAK 2
-
 Helyszín: V3 labor
 
 
@@ -21,48 +16,50 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 
+
 # 3. Mérési helyszín és környezet
 - **Antenna magassága:** ...
 - **Környezet jellemzői:** ...
 - **Adó távolsága:** ...
 
 
-### Adótorony kiválasztása: Az egyik legfontosabb lépés a megfelelő adótorony (jelen esetben a Miskolci Avasi adótorony) kiválasztása, amely biztosítja a kívánt vételi terület lefedettségét.
+ # A feladat végrehajtási pontjai
 
-
-
-# 4. Antennák teljesítménye különböző frekvenciákon
-
-| Frekvencia (MHz) | Antenna | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
-|------------------|---------|----------------|----------|--------------------|
-| ...              | ...     | ...            | ...      | ...                |
-| ...              | ...     | ...            | ...      | ...                |
-| ...              | ...     | ...            | ...      | ...                |
-| ...              | ...     | ...            | ...      | ...                |
-| ...              | ...     | ...            | ...      | ...                |
-
-# 5. Mérési eredmények elemzése
-Az adatok alapján az alábbi következtetéseket lehet levonni:
-- ...
-- ...
-- ...
-
-# 6. Konklúzió
-...
-
-# 7. Mérési nehézségek és eltérések
-...
-
-# 8. Grafikus ábrázolás
-
-A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
+4. **Adótorony kiválasztása**
+   - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
 
 
 
 
-# 9. Javaslatok
-...
 
-**Aláírás:** ...
 
-**Dátum:** ...
+
+5. **Jel mérés és elosztás**
+   - A jel erősségének és minőségének mérése (pl. jelszint, MER).
+   - A jel stabilitásának biztosítása az IPTV rendszerhez.
+
+
+6. **DVB-T jel bevezetése a fejállomásba**
+   - A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba.
+   - A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
+
+
+7. **Multicast IP tartomány kiválasztása**
+   - Az IPTV rendszerhez megfelelő Multicast IP tartomány beállítása.
+
+
+8. **IPTV Set-top-box konfigurálása**
+   - Az IPTV Set-top-boxok beállítása a megfelelő vételhez és stream fogadásához.
+
+
+
+
+
+
+
+9. **Vételi terület lefedettségének értékelése**
+   - A mérés alapján biztosítani, hogy az adótorony jele elérje a kívánt területet és stabil vételt biztosítson.
+
+
+
+
