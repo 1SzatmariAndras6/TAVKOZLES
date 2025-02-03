@@ -36,9 +36,9 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 ## 3. Mérési helyszín és környezet:
-- **Irányszög Dél-nyugat: 234°*
-- **Antenna magassága:*1,5m*
-- **Környezet jellemzői:
+- **Irányszög Dél-nyugat:** 234°*
+- **Antenna magassága:** 1,5m*
+- **Környezet jellemzői:**
   
 - szoba környezet
 - UV: * gyenge 2*
@@ -46,7 +46,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - légnyomás: * 1027*
   
   
-- **Adó távolsága:*800m* 
+- **Adó távolsága:** 800m* 
 
 
  ## A feladat végrehajtási pontjai
