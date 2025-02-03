@@ -27,7 +27,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Hálózati eszköz**  | IGMP protokollt támogató és DHCP képes router       | Internet kapcsolat biztosítása         |
 | **Mérőműszer**       | METEK HDD digitális TV jelmérő, koaxiális kábelek és csatlakozók | Jelméréshez szükséges műszer és kábelek |
 | **Jelosztó**         | -                                                   | Jelosztó a fejállomás bemeneteire érkező jelekhez, UTP kábelek az IPTV jel továbbításához |
-| **Szerelési eszközök** | Csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő | Szerelési eszközök a telepítéshez |
+| **Szerelési eszközök**| Csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő | Szerelési eszközök a telepítéshez |
 | **Osztó**            | RF 16                                               | RF osztó a jel elosztására              |
 
 ## 3. Mérési helyszín és környezet:
