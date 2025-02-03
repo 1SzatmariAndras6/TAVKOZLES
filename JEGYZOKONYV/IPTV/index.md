@@ -73,8 +73,8 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 5. **DVB-T jel bevezetése a fejállomásba**
-   - A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba:
-        Csatlakoztattuk a kontroll portjára itt lehet konfigurálni
+   A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba:
+     - Csatlakoztattuk a kontroll portjára itt lehet konfigurálni
      -Lemco Ip címe: 192.168.1.200
    
    - A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
