@@ -85,7 +85,12 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 5. **Multicast IP tartomány kiválasztása**
    - Az IPTV rendszerhez megfelelő Multicast IP tartomány beállítása.
-
+  <details>
+    
+<img src="">
+  
+  </details>
+  
 |Input 1        | Leírás            |     
 |---------------|-------------------|
 | **Tunner**    |   DVB-T/T2        |
@@ -118,7 +123,10 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 |  **Bandwith** |     8MHz          |  
 |  **ip-cím**   |                   |
 
-
+**TS OUT 1:** 76%
+**TS OUT 2:** 81%
+**TS OUT 3:** 
+**TS OUT 4:** 
 
 
 
