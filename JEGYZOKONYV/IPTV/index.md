@@ -35,10 +35,10 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - **Antenna magassága:** 1,5m*
 - **Környezet jellemzői:**
   
-- szoba környezet
+- szoba környezet hőmérséklet: 5°
 - UV: * gyenge 2*
 - páratartalom: * 68%*
-- légnyomás: * 1027*
+- légnyomás: * 1027mBar*
 - **Adó távolsága:** 800m* 
 
 
@@ -55,26 +55,38 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 5. **Jel mérés és elosztás**
-   - A jel erősségének és minőségének mérése (pl. jelszint, MER).
+
+   
+   - A jel erősségének és minőségének mérése :
+| Mérési paraméter      | Leírás            | Mért értékek               |
+|-----------------------|-------------------|----------------------------|
+| **Jelszint (dBm)**    |       51 db       |                            |
+| **MER (dB)**          |       25 db       |                            |
+| **C/N (dB)**          |                   |                            |
+| **Frekvencia (MHz)**  |                   |                            |
+| **QPSK**              |     84 / 1 / 32   |                            |
+  
+   
+   
    - A jel stabilitásának biztosítása az IPTV rendszerhez.
 
 
 
 
-6. **DVB-T jel bevezetése a fejállomásba**
+5. **DVB-T jel bevezetése a fejállomásba**
    - A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba.
    - A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
 
 
 
 
-7. **Multicast IP tartomány kiválasztása**
+6. **Multicast IP tartomány kiválasztása**
    - Az IPTV rendszerhez megfelelő Multicast IP tartomány beállítása.
 
 
 
 
-8. **IPTV Set-top-box konfigurálása**
+7. **IPTV Set-top-box konfigurálása**
    - Az IPTV Set-top-boxok beállítása a megfelelő vételhez és stream fogadásához.
 
 
@@ -83,7 +95,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 
-9. **Vételi terület lefedettségének értékelése**
+8. **Vételi terület lefedettségének értékelése**
    - A mérés alapján biztosítani, hogy az adótorony jele elérje a kívánt területet és stabil vételt biztosítson.
 
 
