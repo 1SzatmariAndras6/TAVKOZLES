@@ -39,7 +39,8 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - **Irányszög Dél-nyugat: 234°*
 - **Antenna magassága:*1,5m*
 - **Környezet jellemzői:
-- *szoba környezet*
+  
+- szoba környezet
 - UV: * gyenge 2*
 - páratartalom: * 68%*
 - légnyomás: * 1027*
