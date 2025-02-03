@@ -62,7 +62,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Jelszint (dBm)**    |       51 db       |                            |
 | **MER (dB)**          |       25 db       |                            |
 | **C/N (dB)**          |                   |                            |
-| **Frekvencia (MHz)**  |                   |                            |
+| **Frekvencia (MHz)**  |      634          |                            |
 | **QPSK**              |     84 / 1 / 32   |                            |
   
    
@@ -74,6 +74,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 5. **DVB-T jel bevezetése a fejállomásba**
    A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba:
+   
      - Csatlakoztattuk a kontroll portjára itt lehet konfigurálni
      -Lemco Ip címe: 192.168.1.200
    
