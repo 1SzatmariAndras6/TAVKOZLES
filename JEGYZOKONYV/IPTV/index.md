@@ -1,6 +1,9 @@
 **A mérést végző neve:** György Péter
+
 **A mérés tárgya és mérés száma:** IPTV
+
 **A mérés dátuma:** 2025.02.23
+
 **A mérést vezette:** Sándor Péter
 
 **Évfolyam:** 13. E
