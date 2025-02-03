@@ -47,7 +47,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 4. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
 
-
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-03%20115932.png">
 
 
 
@@ -57,6 +57,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
    
    - A jel erősségének és minőségének mérése :
+     
 | Mérési paraméter      | Leírás            | Mért értékek               |
 |-----------------------|-------------------|----------------------------|
 | **Jelszint (dBm)**    |       51 db       |                            |
