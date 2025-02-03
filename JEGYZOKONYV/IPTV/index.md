@@ -27,7 +27,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - **Adó távolsága:** ...
 
 
-# Adótorony kiválasztása# : Az egyik legfontosabb lépés a megfelelő adótorony (jelen esetben a Miskolci Avasi adótorony) kiválasztása, amely biztosítja a kívánt vételi terület lefedettségét.
+## Adótorony kiválasztása##: Az egyik legfontosabb lépés a megfelelő adótorony (jelen esetben a Miskolci Avasi adótorony) kiválasztása, amely biztosítja a kívánt vételi terület lefedettségét.
 
 
 
