@@ -140,6 +140,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - Set-top-box LAN3 fogadja
 - Ip address Pool : 192.168.1.100- 192.168.1.249
 - default gateway: 192.168.1.1
+Pendrivval átmásoljuk az IPTV-channeleket amit lementettünk M3U formában.
 
 
 <details>
@@ -147,12 +148,6 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 </details>
 
 7. **Vételi terület lefedettségének értékelése**
-
-
-
-
-
-   - A mérés alapján biztosítani, hogy az adótorony jele elérje a kívánt területet és stabil vételt biztosítson.
 
 
 
