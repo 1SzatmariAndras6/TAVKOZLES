@@ -17,7 +17,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 # 2. Alkalmazott mérőeszközök és készülékek
 
-**Antenna:** Beltéri vagy kültéri antenna (a vizsgázó választása alapján)
+**Antenna:** Beltéri vagy kültéri antenna (ISKRA P-2845F UHF) 
 
 **Fejállomás:** LEMCO SCL-824CT  (FTA)
 
@@ -34,9 +34,9 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 # 3. Mérési helyszín és környezet
-- **Antenna magassága:** ...
-- **Környezet jellemzői:** ...
-- **Adó távolsága:** ...
+- **Antenna magassága:*1,5m* ...
+- **Környezet jellemzői:*szoba környezet* ...
+- **Adó távolsága:*800m* ...
 
 
  # A feladat végrehajtási pontjai
