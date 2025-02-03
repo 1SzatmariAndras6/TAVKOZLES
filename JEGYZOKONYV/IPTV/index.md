@@ -26,9 +26,9 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Set-top box**      | MAG IPTV                                            | IPTV vevőegység                         |
 | **Hálózati eszköz**  | IGMP protokollt támogató és DHCP képes router       | Internet kapcsolat biztosítása         |
 | **Mérőműszer**       | METEK HDD digitális TV jelmérő, koaxiális kábelek és csatlakozók | Jelméréshez szükséges műszer és kábelek |
-| **Jelosztó**         | Ekselans RF-16                                                 | Jelosztó a fejállomás bemeneteire érkező jelekhez, UTP kábelek az IPTV jel továbbításához |
+| **Jelosztó**         | Ekselans RF-16                                       | Jelosztó a fejállomás bemeneteire érkező jelekhez, UTP kábelek az IPTV jel továbbításához |
 | **Szerelési eszközök**| Csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő | Szerelési eszközök a telepítéshez |
-| **tp-link router**|                                                                |                                   |
+| **tp-link archer c7 router**|                                                |                                   |
 
 ## 3. Mérési helyszín és környezet:
 - **Irányszög Dél-nyugat:** 234°*
@@ -90,6 +90,8 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 <img src="">
   
   </details>
+
+  **Input ípcímek :** 224.0.0.1
   
 |Input 1        | Leírás            |     
 |---------------|-------------------|
@@ -97,7 +99,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Frequency** |    666            |  
 |   **Channel** |    45             |  
 |  **Bandwith** |   8MHz            |  
-| **ip-cím**    |                   |
+
 
 |Input 2        | Leírás            |
 |---------------|-------------------|
@@ -105,7 +107,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Frequency** |    586 MHz        |  
 |   **Channel** |      35           |  
 |  **Bandwith** |     8MHz          |  
-|  **ip-cím**   |                   |
+
 
 |Input 3        | Leírás            |     
 |---------------|-------------------|
@@ -113,7 +115,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Frequency** |     690           |  
 |   **Channel** |     48            |  
 |  **Bandwith** |     8MHz          |  
-|  **ip-cím**   |                   |
+
 
 |Input 4        | Leírás            |     
 |---------------|-------------------|
@@ -121,7 +123,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Frequency** |     634           |  
 |   **Channel** |     41            |  
 |  **Bandwith** |     8MHz          |  
-|  **ip-cím**   |                   |
+
 
 **TS OUT 1:** 76%
 **TS OUT 2:** 81%
@@ -133,11 +135,16 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 6. **IPTV Set-top-box konfigurálása**
    - Az IPTV Set-top-boxok beállítása a megfelelő vételhez és stream fogadásához.
 
+*Router settings:*
+- IGMP Snooping IPTV/VLAN version V2, bridge módba álítottuk
+- Set-top-box LAN3 fogadja
+- Ip address Pool : 192.168.1.100- 192.168.1.249
+- default gateway: 192.168.1.1
 
 
-
-
-
+<details>
+<img src="  ">
+</details>
 
 7. **Vételi terület lefedettségének értékelése**
 
