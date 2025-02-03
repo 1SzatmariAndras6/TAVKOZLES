@@ -35,6 +35,9 @@
 - [08 TT mérési feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/08. - TT mérési feladat/)
 
   <br>
-  
+
+- [IPTV](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/IPTV/)
+
+<br>
 ---
 
