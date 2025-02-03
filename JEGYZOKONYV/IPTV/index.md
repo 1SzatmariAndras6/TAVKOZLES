@@ -33,7 +33,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 **Szerelési eszközök:** csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő
 
-
+**Osztó:** RF 16
 
 ## 3. Mérési helyszín és környezet:
 - **Irányszög Dél-nyugat:** 234°*
