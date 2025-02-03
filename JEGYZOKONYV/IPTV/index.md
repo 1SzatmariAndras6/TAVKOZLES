@@ -46,11 +46,9 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 4. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
-
+<details>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-03%20115932.png">
-
-
-
+</details>
 
 
 5. **Jel mérés és elosztás**
@@ -96,6 +94,11 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 8. **Vételi terület lefedettségének értékelése**
+
+
+
+
+
    - A mérés alapján biztosítani, hogy az adótorony jele elérje a kívánt területet és stabil vételt biztosítson.
 
 
