@@ -39,7 +39,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - **UV:** * gyenge 2*
 - **páratartalom:** * 68%*
 - **légnyomás:** * 1027mBar*
-- **Adó távolsága:** 800m* 
+- **Adó távolsága:** 779,88m* 
 
 
  ## A feladat végrehajtási pontjai
