@@ -1,6 +1,6 @@
 # DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
 
-**A mérést végző neve:** György Péter
+**A mérést végző neve:** Szatmári András
 
 **A mérés tárgya és mérés száma:** IPTV
 
@@ -135,7 +135,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 6. **IPTV Set-top-box konfigurálása**
    - Az IPTV Set-top-boxok beállítása a megfelelő vételhez és stream fogadásához.
 
-*Router settings:*
+*Router config:*
 - IGMP Snooping IPTV/VLAN version V2, bridge módba álítottuk
 - Set-top-box LAN3 fogadja
 - Ip address Pool : 192.168.1.100- 192.168.1.249
