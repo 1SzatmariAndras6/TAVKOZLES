@@ -17,6 +17,19 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 # 2. Alkalmazott mérőeszközök és készülékek
 
+**Antenna:** Beltéri vagy kültéri antenna (a vizsgázó választása alapján)
+
+**Fejállomás:** LEMCO SCL-824CT  (FTA)
+
+**Set-top box:** MAG IPTV
+
+**Hálózati eszköz:** IGMP protokollt támogató és DHCP képes router internet kapcsolattal
+
+**Mérőműszer:** METEK HDD digitális TV jelmérő, koaxiális kábelek és csatlakozók 
+
+**Jelosztó:** jelosztó a fejállomás bemeneteire érkező jelek kialakításához UTP kábelek az IPTV jel továbbításához
+
+**Szerelési eszközök:** csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő
 
 
 
