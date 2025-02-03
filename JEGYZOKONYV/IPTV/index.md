@@ -42,7 +42,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - **Adó távolsága:** 779,88m* 
 
 
- ## A feladat végrehajtási pontjai
+ ## A feladat végrehajtási pontjai:
 
 
 4. **Adótorony kiválasztása**
