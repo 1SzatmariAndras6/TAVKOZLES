@@ -1,11 +1,11 @@
-A mérést végző neve: György Péter
-A mérés tárgya és mérés száma: IPTV
-A mérés dátuma: 20025.02.23
-A mérést vezette: Sándor Péter
+**A mérést végző neve:** György Péter
+**A mérés tárgya és mérés száma:** IPTV
+**A mérés dátuma:** 2025.02.23
+**A mérést vezette:** Sándor Péter
 
-Évfolyam: 13. E
-Csoport: GYAK 2
-Helyszín: V3 labor
+**Évfolyam:** 13. E
+**Csoport:** GYAK 2
+**Helyszín:** V3 labor
 
 
 # 1. Mérés célja
