@@ -34,9 +34,9 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 # 3. Mérési helyszín és környezet
-- **Antenna magassága:*1,5m* ...
-- **Környezet jellemzői:*szoba környezet* ...
-- **Adó távolsága:*800m* ...
+- **Antenna magassága:*1,5m* 
+- **Környezet jellemzői:*szoba környezet* 
+- **Adó távolsága:*800m* 
 
 
  # A feladat végrehajtási pontjai
@@ -55,13 +55,19 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
    - A jel stabilitásának biztosítása az IPTV rendszerhez.
 
 
+
+
 6. **DVB-T jel bevezetése a fejállomásba**
    - A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba.
    - A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
 
 
+
+
 7. **Multicast IP tartomány kiválasztása**
    - Az IPTV rendszerhez megfelelő Multicast IP tartomány beállítása.
+
+
 
 
 8. **IPTV Set-top-box konfigurálása**
