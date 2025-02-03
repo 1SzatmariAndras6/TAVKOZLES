@@ -13,11 +13,11 @@
 **Helyszín:** V3 labor
 
 
-# 1. Mérés célja
+## 1. Mérés célja
 
 A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminőséget a digitális TV vételi rendszerhez, ellenőrizze a DVB-T jel stabilitását és minőségét, valamint biztosítsa, hogy az IPTV stream zökkenőmentesen működjön a végfelhasználók számára.
 
-# 2. Alkalmazott mérőeszközök és készülékek
+## 2. Alkalmazott mérőeszközök és készülékek
 
 **Antenna:** Beltéri vagy kültéri antenna (ISKRA P-2845F UHF) 
 
@@ -35,13 +35,13 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 
-# 3. Mérési helyszín és környezet
+## 3. Mérési helyszín és környezet
 - **Antenna magassága:*1,5m* 
 - **Környezet jellemzői:*szoba környezet* 
 - **Adó távolsága:*800m* 
 
 
- # A feladat végrehajtási pontjai
+ ## A feladat végrehajtási pontjai
 
 4. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
