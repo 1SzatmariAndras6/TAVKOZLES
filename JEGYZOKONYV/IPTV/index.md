@@ -19,16 +19,16 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 ## 2. Mérőeszközök és készülékek
 
-| Eszköz típusa       | Eszköz neve                                         | Leírás                                  |
-|---------------------|-----------------------------------------------------|-----------------------------------------|
+| Eszköz típusa       | Eszköz neve                                          | Leírás                                  |
+|---------------------|------------------------------------------------------|-----------------------------------------|
 | **Antenna**          | ISKRA P-2845F UHF                                   | Beltéri vagy kültéri antenna            |
 | **Fejállomás**       | LEMCO SCL-824CT (FTA)                               | Fejállomás a DVB-T jel fogadására és IPTV stream előállítására |
 | **Set-top box**      | MAG IPTV                                            | IPTV vevőegység                         |
 | **Hálózati eszköz**  | IGMP protokollt támogató és DHCP képes router       | Internet kapcsolat biztosítása         |
 | **Mérőműszer**       | METEK HDD digitális TV jelmérő, koaxiális kábelek és csatlakozók | Jelméréshez szükséges műszer és kábelek |
-| **Jelosztó**         | Ekselans RF-16                                       | Jelosztó a fejállomás bemeneteire érkező jelekhez, UTP kábelek az IPTV jel továbbításához |
+| **Jelosztó**         | Ekselans RF-16                                      | Jelosztó a fejállomás bemeneteire érkező jelekhez, UTP kábelek az IPTV jel továbbításához |
 | **Szerelési eszközök**| Csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő | Szerelési eszközök a telepítéshez |
-| **tp-link archer c7 router**|                                                |                                   |
+| **tp-link**           |            archer c7 router                        |                                   |
 
 ## 3. Mérési helyszín és környezet:
 - **Irányszög Dél-nyugat:** 234°*
@@ -48,7 +48,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 4. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
 <details>
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-03%20115932.png">
+<img src="JEGYZOKONYV/IPTV/Képernyőkép 2025-02-03 115932.png">
 </details>
 
 

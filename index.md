@@ -30,7 +30,7 @@
   
 - [09 Tranzisztor működésének vizsgálata](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/09. - Tranzisztor működésének vizsgálata)
 
-    <br>
+  <br>
 
 - [08 TT mérési feladat](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/08. - TT mérési feladat/)
 
