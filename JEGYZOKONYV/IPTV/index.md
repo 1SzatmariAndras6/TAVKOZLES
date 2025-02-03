@@ -88,34 +88,34 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 |Input 1        | Leírás            |     
 |---------------|-------------------|
-| **Tunner **   |   DVB-T/T2        |
-| **Frequency **|    666            |  
+| **Tunner**    |   DVB-T/T2        |
+| **Frequency** |    666            |  
 |   **Channel** |    45             |  
 |  **Bandwith** |   8MHz            |  
 | **ip-cím**    |                   |
 
 |Input 2        | Leírás            |
 |---------------|-------------------|
-| **Tunner **   |   DVB-T/T2        |
-| **Frequency **|    586           |  
-|   **Channel** |                 |  
-|  **Bandwith** |               |  
+| **Tunner**    |   DVB-T/T2        |
+| **Frequency** |    586 MHz        |  
+|   **Channel** |      35           |  
+|  **Bandwith** |     8MHz          |  
 |  **ip-cím**   |                   |
 
 |Input 3        | Leírás            |     
 |---------------|-------------------|
-| **Tunner **   |   DVB-T/T2        |
-| **Frequency **|    690          |  
-|   **Channel** |               |  
-|  **Bandwith** |             |  
+| **Tunner**    |   DVB-T/T2        |
+| **Frequency** |     690           |  
+|   **Channel** |     48            |  
+|  **Bandwith** |     8MHz          |  
 |  **ip-cím**   |                   |
 
 |Input 4        | Leírás            |     
 |---------------|-------------------|
-| **Tunner **   |   DVB-T/T2        |
-| **Frequency **|    634           |  
-|   **Channel** |                |  
-|  **Bandwith** |             |  
+| **Tunner**    |   DVB-T/T2        |
+| **Frequency** |     634           |  
+|   **Channel** |     41            |  
+|  **Bandwith** |     8MHz          |  
 |  **ip-cím**   |                   |
 
 
