@@ -35,10 +35,10 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - **Antenna magassága:** 1,5m*
 - **Környezet jellemzői:**
   
-- szoba környezet hőmérséklet: 5°
-- UV: * gyenge 2*
-- páratartalom: * 68%*
-- légnyomás: * 1027mBar*
+- **szoba környezet hőmérséklet:** 5°
+- **UV:** * gyenge 2*
+- **páratartalom:** * 68%*
+- **légnyomás:** * 1027mBar*
 - **Adó távolsága:** 800m* 
 
 
@@ -48,7 +48,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 4. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
 <details>
-<img src="JEGYZOKONYV/IPTV/Képernyőkép 2025-02-03 115932.png">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-03%20115932.png">
 </details>
 
 
@@ -61,8 +61,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 |-----------------------|-------------------|----------------------------|
 | **Jelszint (dBm)**    |       51 db       |                            |
 | **MER (dB)**          |       25 db       |                            |
-| **C/N (dB)**          |                   |                            |
-| **Frekvencia (MHz)**  |      634          |                            |
+| **Frekvencia (MHz)**  |       634         |                            |
 | **QPSK**              |     84 / 1 / 32   |                            |
   
    
