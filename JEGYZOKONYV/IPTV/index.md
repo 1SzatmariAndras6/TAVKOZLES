@@ -37,8 +37,8 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
   
 - **szoba környezet hőmérséklet:** 5°
 - **UV:** * gyenge 2
-- **páratartalom:** * 68%
-- **légnyomás:** * 1027mBar
+- **páratartalom:**  68%
+- **légnyomás:**  1027mBar
 - **Adó távolsága:** 779,88m
 
 
@@ -47,6 +47,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 4. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
+     <br>
 <details>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-03%20115932.png">
 </details>
@@ -110,8 +111,12 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
    - Az IPTV rendszerhez megfelelő Multicast IP tartomány beállítása.
   <details>
     
-<img src="">
-  
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/41-48ch.png">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/45-35ch.png">
+
   </details>
 
   **Input ípcímek :** 224.0.0.1
