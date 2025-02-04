@@ -4,7 +4,7 @@
 
 **A mérés tárgya és mérés száma:** IPTV
 
-**A mérés dátuma:** 2025.02.23
+**A mérés dátuma:** 2025.02.3
 
 **A mérést vezette:** Sándor Péter
 
@@ -88,9 +88,16 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **MER (dB)**          |       25 db       |                            |
 | **Frekvencia (MHz)**  |       634         |                            |
 | **QPSK**              |     84 / 1 / 32   |                            |
-  
+
+  <details>
+    
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/its_snapshot_0001.bmp">
    
+   <br>
    
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/its_snapshot_0002.bmp">
+   
+   </details>
    - A jel stabilitásának biztosítása az IPTV rendszerhez.
 
 
