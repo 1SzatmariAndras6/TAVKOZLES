@@ -115,7 +115,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 <br>
 
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/45-35ch.png">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-03%20123233.png">
 
   </details>
 
