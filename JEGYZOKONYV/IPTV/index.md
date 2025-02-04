@@ -54,30 +54,6 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-03%20115932.png">
 </details>
 
-**Táblázat:**
-<details> 
-  
-| #  | Input   | Program Title           | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP Address       | IP Port | Protocol |
-|----|---------|-------------------------|--------------------|------------|-----------|-----------|------------------|------------------|---------|----------|
-| 1  | Input 1 | M1 HD                   | 100                | 0          | FTA       | 1         | 100              | 239.1.1.1.1      | 10001   | UDP      |
-| 2  | Input 1 | M4 Sport HD             | 101                | 0          | FTA       | 1         | 101              | 239.1.1.1.1      | 10002   | UDP      |
-| 3  | Input 1 | Duna HD                 | 102                | 0          | FTA       | 1         | 102              | 239.1.1.1.1      | 10003   | UDP      |
-| 4  | Input 1 | DunaW/M4Sport+          | 103                | 0          | FTA       | 2         | 103              | 239.1.1.1.1      | 10004   | UDP      |
-| 5  | Input 1 | Kossuth Radio           | 130                | 0          | FTA       | 4         | 130              | 239.1.1.1.1      | 10005   | UDP      |
-| 6  | Input 1 | Petofi Radio            | 131                | 0          | FTA       | 4         | 131              | 239.1.1.1.1      | 10006   | UDP      |
-| 7  | Input 1 | Bartok Radio            | 132                | 0          | FTA       | 4         | 132              | 239.1.1.1.1      | 10007   | UDP      |
-| 8  | Input 1 | Danko Radio             | 133                | 0          | FTA       | 4         | 133              | 239.1.1.1.1      | 10008   | UDP      |
-| 10 | Input 2 | M2 HD                   | 200                | 0          | FTA       | 1         | 200              | 239.1.1.1.1      | 10009   | UDP      |
-| 11 | Input 2 | M5 HD                   | 201                | 0          | FTA       | 2         | 201              | 239.1.1.1.1      | 10010   | UDP      |
-| 12 | Input 2 | TV2                     | 202                | 0          | FTA       | 1         | 202              | 239.1.1.1.1      | 10011   | UDP      |
-| 13 | Input 2 | RTL                     | 203                | 0          | FTA       | 1         | 203              | 239.1.1.1.1      | 10012   | UDP      |
-| 14 | Input 2 | MAX4                    | 206                | 0          | FTA       | 2         | 206              | 239.1.1.1.1      | 10013   | UDP      |
-| 15 | Input 2 | Spektrum Home +         | 207                | 0          | FTA       | 2         | 207              | 239.1.1.1.1      | 10014   | UDP      |
-| 16 | Input 2 | MinDig TV Plusz Info    | 208                | 0          | FTA       | 2         | 208              | 239.1.1.1.1      | 10015   | UDP      |
-| 37 | Input 3 | HEVC teszt              | 524                | 0          | FTA       | 2         | 524              | 239.1.1.1.1      | 10016   | UDP      |
-| 39 | Input 4 | Miskolc TV              | 1000               | 0          | FTA       | 2         | 1000             | 239.1.1.1.1      | 10017   | UDP      |
-
-</details>
 
 5. **Jel mérés és elosztás**
 
@@ -179,9 +155,30 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - default gateway: 192.168.1.1
 Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 
+**Táblázat:**
 
-<details>
-<img src="  ">
+<details> 
+  
+| #  | Input   | Program Title           | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP Address       | IP Port | Protocol |
+|----|---------|-------------------------|--------------------|------------|-----------|-----------|------------------|------------------|---------|----------|
+| 1  | Input 1 | M1 HD                   | 100                | 0          | FTA       | 1         | 100              | 239.1.1.1.1      | 10001   | UDP      |
+| 2  | Input 1 | M4 Sport HD             | 101                | 0          | FTA       | 1         | 101              | 239.1.1.1.1      | 10002   | UDP      |
+| 3  | Input 1 | Duna HD                 | 102                | 0          | FTA       | 1         | 102              | 239.1.1.1.1      | 10003   | UDP      |
+| 4  | Input 1 | DunaW/M4Sport+          | 103                | 0          | FTA       | 2         | 103              | 239.1.1.1.1      | 10004   | UDP      |
+| 5  | Input 1 | Kossuth Radio           | 130                | 0          | FTA       | 4         | 130              | 239.1.1.1.1      | 10005   | UDP      |
+| 6  | Input 1 | Petofi Radio            | 131                | 0          | FTA       | 4         | 131              | 239.1.1.1.1      | 10006   | UDP      |
+| 7  | Input 1 | Bartok Radio            | 132                | 0          | FTA       | 4         | 132              | 239.1.1.1.1      | 10007   | UDP      |
+| 8  | Input 1 | Danko Radio             | 133                | 0          | FTA       | 4         | 133              | 239.1.1.1.1      | 10008   | UDP      |
+| 10 | Input 2 | M2 HD                   | 200                | 0          | FTA       | 1         | 200              | 239.1.1.1.1      | 10009   | UDP      |
+| 11 | Input 2 | M5 HD                   | 201                | 0          | FTA       | 2         | 201              | 239.1.1.1.1      | 10010   | UDP      |
+| 12 | Input 2 | TV2                     | 202                | 0          | FTA       | 1         | 202              | 239.1.1.1.1      | 10011   | UDP      |
+| 13 | Input 2 | RTL                     | 203                | 0          | FTA       | 1         | 203              | 239.1.1.1.1      | 10012   | UDP      |
+| 14 | Input 2 | MAX4                    | 206                | 0          | FTA       | 2         | 206              | 239.1.1.1.1      | 10013   | UDP      |
+| 15 | Input 2 | Spektrum Home +         | 207                | 0          | FTA       | 2         | 207              | 239.1.1.1.1      | 10014   | UDP      |
+| 16 | Input 2 | MinDig TV Plusz Info    | 208                | 0          | FTA       | 2         | 208              | 239.1.1.1.1      | 10015   | UDP      |
+| 37 | Input 3 | HEVC teszt              | 524                | 0          | FTA       | 2         | 524              | 239.1.1.1.1      | 10016   | UDP      |
+| 39 | Input 4 | Miskolc TV              | 1000               | 0          | FTA       | 2         | 1000             | 239.1.1.1.1      | 10017   | UDP      |
+
 </details>
 
 7. **Vételi terület lefedettségének értékelése**
@@ -189,9 +186,13 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
  - Média információk : 
 
    <details>
+   
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-04%20094401.png">
+
 <br>
+
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-04%20094453.png">
+
 </details>
 
 
