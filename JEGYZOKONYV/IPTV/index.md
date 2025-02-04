@@ -8,9 +8,11 @@
 
 **A mérést vezette:** Sándor Péter
 
-**Évfolyam:** 13. E
-**Csoport:** GYAK 2
-**Helyszín:** V3 labor
+- **Évfolyam:** 13. E
+
+- **Csoport:** GYAK 2
+
+- **Helyszín:** V3 labor
 
 
 ## 1. Mérés célja
@@ -175,7 +177,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 - Set-top-box LAN3 fogadja
 - Ip address Pool : 192.168.1.100- 192.168.1.249
 - default gateway: 192.168.1.1
-Pendrivval átmásoljuk az IPTV-channeleket amit lementettünk M3U formában.
+Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 
 
 <details>
@@ -184,6 +186,12 @@ Pendrivval átmásoljuk az IPTV-channeleket amit lementettünk M3U formában.
 
 7. **Vételi terület lefedettségének értékelése**
 
+ - Média információk : 
 
+   <details>
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-04%20094401.png">
+<br>
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-04%20094453.png">
+</details>
 
 
