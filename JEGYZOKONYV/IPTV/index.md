@@ -86,8 +86,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
    
      - Csatlakoztattuk a kontroll portjára itt lehet konfigurálni
      -Lemco Ip címe: 192.168.1.200
-   
-   - A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
+   A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
 
 
 
@@ -185,7 +184,7 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 
  - Média információk : 
 
-   <details>
+<details>
    
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-04%20094401.png">
 
