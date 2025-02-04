@@ -31,15 +31,15 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **tp-link**           |            archer c7 router                        |                                   |
 
 ## 3. Mérési helyszín és környezet:
-- **Irányszög Dél-nyugat:** 234°*
-- **Antenna magassága:** 1,5m*
+- **Irányszög Dél-nyugat:** 234°
+- **Antenna magassága:** 1,5m
 - **Környezet jellemzői:**
   
 - **szoba környezet hőmérséklet:** 5°
-- **UV:** * gyenge 2*
-- **páratartalom:** * 68%*
-- **légnyomás:** * 1027mBar*
-- **Adó távolsága:** 779,88m* 
+- **UV:** * gyenge 2
+- **páratartalom:** * 68%
+- **légnyomás:** * 1027mBar
+- **Adó távolsága:** 779,88m*
 
 
  ## A feladat végrehajtási pontjai:
