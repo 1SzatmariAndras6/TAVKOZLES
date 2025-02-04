@@ -182,9 +182,9 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 
 7. **Vételi terület lefedettségének értékelése**
 
- - Média információk : 
+- Média információk : 
 
-<details>
+<details>  
    
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/K%C3%A9perny%C5%91k%C3%A9p%202025-02-04%20094401.png">
 
