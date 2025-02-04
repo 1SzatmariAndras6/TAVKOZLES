@@ -52,8 +52,8 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 </details>
 
 **Táblázat:**
-
 <details> 
+  
 | #  | Input   | Program Title           | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP Address       | IP Port | Protocol |
 |----|---------|-------------------------|--------------------|------------|-----------|-----------|------------------|------------------|---------|----------|
 | 1  | Input 1 | M1 HD                   | 100                | 0          | FTA       | 1         | 100              | 239.1.1.1.1      | 10001   | UDP      |
@@ -73,6 +73,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | 16 | Input 2 | MinDig TV Plusz Info    | 208                | 0          | FTA       | 2         | 208              | 239.1.1.1.1      | 10015   | UDP      |
 | 37 | Input 3 | HEVC teszt              | 524                | 0          | FTA       | 2         | 524              | 239.1.1.1.1      | 10016   | UDP      |
 | 39 | Input 4 | Miskolc TV              | 1000               | 0          | FTA       | 2         | 1000             | 239.1.1.1.1      | 10017   | UDP      |
+
 </details>
 
 5. **Jel mérés és elosztás**
