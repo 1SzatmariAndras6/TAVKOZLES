@@ -194,4 +194,10 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 
 </details>
 
+## Összegzés és Értékelés 
+A mérések alapján a DVB-T jel stabilan bevezetésre került a fejállomásba, és az IPTV stream megfelelően működött. Az IPTV Set-top-box konfigurálása és a multicast IP címek beállítása sikeresen lezajlott.
+
+Az elején tapasztaltunk némi hálózati terhelést, amely a TP-Link router korlátozott teljesítménye miatt jelentkezett. A problémát egy Asus routerre történő cserével megoldottuk, amely stabilabb IPTV forgalmat biztosított.
+
+Összességében a rendszer megfelelően működik, az IPTV stream stabil és zökkenőmentes.
 
