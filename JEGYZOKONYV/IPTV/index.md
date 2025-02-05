@@ -181,7 +181,14 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 </details>
 
 7. **Vételi terület lefedettségének értékelése**
+   (*stream stabilitás és csomagvesztés vizsgálata*)
+   <br>
+   
+   <details> 
 
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/fdgfgdh.png">
+
+   </details> 
 - Média információk : 
 
 <details>  
