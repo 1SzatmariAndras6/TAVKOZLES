@@ -161,8 +161,6 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 
 **Táblázat:**
 
-<details> 
-  
 | #  | Input   | Program Title           | OriginalService ID | LCN1..1023 | Encrypted | TS Output | OutputService ID | IP Address       | IP Port | Protocol |
 |----|---------|-------------------------|--------------------|------------|-----------|-----------|------------------|------------------|---------|----------|
 | 1  | Input 1 | M1 HD                   | 100                | 0          | FTA       | 1         | 100              | 239.1.1.1.1      | 10001   | UDP      |
@@ -183,13 +181,13 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 | 37 | Input 3 | HEVC teszt              | 524                | 0          | FTA       | 2         | 524              | 239.1.1.1.1      | 10016   | UDP      |
 | 39 | Input 4 | Miskolc TV              | 1000               | 0          | FTA       | 2         | 1000             | 239.1.1.1.1      | 10017   | UDP      |
 
-</details>
 
-7. **Vételi terület lefedettségének értékelése**
+
+6. **Vételi terület lefedettségének értékelése**
      (*stream stabilitás és csomagvesztés vizsgálata*)
-
+<details>
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/fdgfgdh.png">
-  
+  </details>
 - Média információk : 
 
 <details>  
