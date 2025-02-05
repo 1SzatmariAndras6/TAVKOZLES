@@ -15,11 +15,11 @@
 - **Helyszín:** V3 labor
 
 
-## 1. Mérés célja
+##  Mérés célja
 
 A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminőséget a digitális TV vételi rendszerhez, ellenőrizze a DVB-T jel stabilitását és minőségét, valamint biztosítsa, hogy az IPTV stream zökkenőmentesen működjön a végfelhasználók számára.
 
-## 2. Mérőeszközök és készülékek
+##  Mérőeszközök és készülékek
 
 | Eszköz típusa       | Eszköz neve                                          | Leírás                                  |
 |---------------------|------------------------------------------------------|-----------------------------------------|
@@ -32,7 +32,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 | **Szerelési eszközök**| Csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő | Szerelési eszközök a telepítéshez |
 | **tp-link**           |            archer c7 router                        |                                   |
 
-## 3. Mérési helyszín és környezet:
+##  Mérési helyszín és környezet:
 - **Irányszög Dél-nyugat:** 234°
 - **Antenna magassága:** 1,5m
 - **Környezet jellemzői:**
@@ -47,7 +47,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
  ## A feladat végrehajtási pontjai:
 
 
-4. **Adótorony kiválasztása**
+1. **Adótorony kiválasztása**
    - Miskolci Avasi adótorony kiválasztása a megfelelő vételi terület lefedettségéhez.
      <br>
 <details>
@@ -55,7 +55,7 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 </details>
 
 
-5. **Jel mérés és elosztás**
+2. **Jel mérés és elosztás**
 
    
    - A jel erősségének és minőségének mérése :
@@ -81,17 +81,20 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 
 
 
-5. **DVB-T jel bevezetése a fejállomásba**
+3. **DVB-T jel bevezetése a fejállomásba**
+   
    A DVB-T jel átvitele a LEMCO SCL-824CT fejállomásba:
    
-     - Csatlakoztattuk a kontroll portjára itt lehet konfigurálni
+     -Csatlakoztattuk a kontroll portjára itt lehet konfigurálni
      -Lemco Ip címe: 192.168.1.200
+   
    A fejállomás konfigurálása a digitális tartalom IPTV stream formájában történő kiadására.
 
 
 
 
-5. **Multicast IP tartomány kiválasztása**
+4. **Multicast IP tartomány kiválasztása**
+   
    - Az IPTV rendszerhez megfelelő Multicast IP tartomány beállítása.
   <details>
     
@@ -136,15 +139,17 @@ A mérés célja, hogy biztosítsa a megfelelő jelerősséget és jelminősége
 |   **Channel** |     41            |  
 |  **Bandwith** |     8MHz          |  
 
-
 **TS OUT 1:** 76%
+
 **TS OUT 2:** 81%
+
 **TS OUT 3:** 
+
 **TS OUT 4:** 
 
 
 
-6. **IPTV Set-top-box konfigurálása**
+5. **IPTV Set-top-box konfigurálása**
    - Az IPTV Set-top-boxok beállítása a megfelelő vételhez és stream fogadásához.
 
 *Router config:*
@@ -181,7 +186,9 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
 </details>
 
 7. **Vételi terület lefedettségének értékelése**
+   
    (*stream stabilitás és csomagvesztés vizsgálata*)
+   
    <br>
    
    <details> 
@@ -189,6 +196,7 @@ Pendrivval átmásolom az IPTV-channeleket amit lementettek M3U formában.
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IPTV/fdgfgdh.png">
 
    </details> 
+   
 - Média információk : 
 
 <details>  
