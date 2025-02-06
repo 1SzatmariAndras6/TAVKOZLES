@@ -74,11 +74,11 @@ Parancs: `ipconfig /renew`
 ## 4. Jelenítse meg a számítógépén a routing táblát!
 A számítógép routing táblájának megjelenítéséhez használja:
 
-Parancs: `netstat -r`
+Parancs: `netstat -f`
 
 <details>
   
-![netstat -r](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105328.png)
+![netstat -f](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20114332.png)
   
 </details>
 
