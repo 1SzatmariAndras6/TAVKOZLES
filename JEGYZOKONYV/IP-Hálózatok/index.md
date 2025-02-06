@@ -74,11 +74,11 @@ Parancs: `ipconfig /renew`
 ## 4. Jelenítse meg a számítógépén a routing táblát!
 A számítógép routing táblájának megjelenítéséhez használja:
 
-Parancs: `netstat -f`
+Parancs: `netstat -r`
 
 <details>
   
-![netstat -f](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20114332.png)
+![Route table](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20104649.png)
   
 </details>
 
@@ -113,11 +113,11 @@ Parancs : `tracert www.ipon.hu`
  ## 7. Minden használt port listázása!
 Az aktív hálózati kapcsolatokhoz és az általuk használt portok listázásához használjuk a következő parancsot:
   
-Parancs: `netstat -a`
+Parancs: `netstat -f`
 
 <details>
 
-![netstat -a](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105328.png)
+![netstat -a](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20114332.png)
   
 </details>
 
