@@ -218,7 +218,7 @@ Parancs: `nslookup www.example.com`
   </details>
   <br>
 
-``
+`Telefon csatlakoztatás`
 <details>
 
   ![](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/1738834619841.jpg)
