@@ -20,7 +20,7 @@
 A tesztelés során az alábbi eszközöket használtam:
 
 - **Catalyst 2950 switch** – A hálózati eszközök közötti kapcsolat biztosítására.  
-- **** – A hálózat központi vezérlőjeként működött.  
+- **Tenda Wireless-N Broadband Router** – A hálózat központi vezérlőjeként működött.  
 - **ThinkPad laptop** – Ezen futtattam a ping teszteket és egyéb parancsokat a hálózat ellenőrzéséhez.  
 - **Mobiltelefon** – A Linksys routerhez csatlakozva lehetővé tette a laptop és más eszközök közötti kapcsolat tesztelését.
 
@@ -75,8 +75,9 @@ Parancs: `netstat -r`
 </details>
 
 
-##5. Tesztelje le, hogy elérhető-e a microsoft.com szerver!
+## 5. Tesztelje le, hogy elérhető-e a microsoft.com szerver!
 A ping parancs segítségével tesztelhetjük, hogy a microsoft.com szerver elérhető-e:
+
 Parancs: ` ping microsoft.com `
 
 <details>
@@ -86,7 +87,7 @@ Parancs: ` ping microsoft.com `
 </details>
 
 
-6. Kövesse le a www.ipon.hu szerver felé vezető útvonalat!
+## 6. Kövesse le a www.ipon.hu szerver felé vezető útvonalat!
 A következő parancs segítségével lekövethetjük a www.ipon.hu szerver felé vezető útvonalat:
 
 Parancs : `tracert www.ipon.hu`
@@ -100,30 +101,35 @@ Parancs : `tracert www.ipon.hu`
 
 
 
-<details>
-  7. Minden használt port listázása!
+
+ ## 7. Minden használt port listázása!
 Az aktív hálózati kapcsolatokhoz és az általuk használt portok listázásához használjuk a következő parancsot:
   
 Parancs: `netstat -a`
 
+<details>
 
 ![netstat -a](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105328.png)
   
 </details>
 
 
-8. Jelenítse meg, milyen hálózati kapcsolatok vannak!
+## 8. Jelenítse meg, milyen hálózati kapcsolatok vannak!
 A hálózati kapcsolatok megjelenítéséhez használhatjuk a következő parancsot:
+
 Parancs: `netsh interface show interface`
+
 <details>
   
 ![netsh interface show interface](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105350.png)
   
 </details>
 
-9. Végezze el a DNS beállítások aktualizálását!
+## 9. Végezze el a DNS beállítások aktualizálását!
 A DNS gyorsítótárának törléséhez és az új DNS beállítások lekéréséhez futtassa a következő parancsot:
+
 Parancs: `ipconfig /flushdns`
+
 <details>
   
 ![ipconfig /flushdns](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105406.png)
@@ -131,8 +137,9 @@ Parancs: `ipconfig /flushdns`
 </details>
 
 
-10. Jelenítse meg a csatolt hálózati meghajtókat!
+## 10. Jelenítse meg a csatolt hálózati meghajtókat!
 A számítógéphez csatolt hálózati meghajtók megjelenítéséhez használd ezt a parancsot:
+
 Parancs: `net use`
 
 <details>
@@ -143,17 +150,20 @@ Parancs: `net use`
 
 
 
-11. Jelenítse meg a www.ipon.hu szerver tartománynév és IP címét!
+## 11. Jelenítse meg a www.ipon.hu szerver tartománynév és IP címét!
 A következő parancs segítségével megjeleníthetjük a www.ipon.hu szerver tartománynévét és IP-címét:
+
 Parancs: `nslookup www.ipon.hu`
+
 <details>
   
 ![nslookup www.ipon.hu](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105436.png)
   
 </details>
 
-12. Az idegen címek számára, FQDN megjelenítése:
+## 12. Az idegen címek számára, FQDN megjelenítése:
 Ehhez hasonlóan, egy másik domain név teljes kvalifikált domain nevének (FQDN) megjelenítésére van szükség, például:
+
 Parancs: `nslookup www.example.com`
 
 
@@ -163,12 +173,34 @@ Parancs: `nslookup www.example.com`
   
 </details>
 
+## 13. Pingelések és tesztelések: 
 
-
-
-``
 <details>
   
-![renew](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105735.png)
+![Route tábla](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20104649.png)
+
+  <br>
+
+![router ping laptopról](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20104058.png)
+  <br>
+
+  ![Router SSID](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20103225.png)
+  
+  <br>
+
+  ![Telefonos teszt](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/1738834619808.jpg)
+  
+  <br>
+
+  ![Fel/letöltés](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/1738834619823.jpg)
+  
+  <br>
+
+
+  ![](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/1738834619841.jpg)
+  
+  <br>
+
+  ![Telefon pingelés](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20102934.png)
   
 </details>
