@@ -241,3 +241,6 @@ Parancs: `nslookup www.example.com`
   ![Telefon pingelés](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20102934.png)
   
 </details>
+
+## Összegzés:
+- A mérés során különböző hálózati parancsok segítségével teszteltük a hálózati eszközök beállításait és működését. A konfiguráció és tesztelés során IP-címek kezelése, hálózati útvonalak nyomon követése, aktív kapcsolatokat figyelő parancsok és DNS beállítások frissítése zajlott. A tesztek eredményei biztosították a hálózat megfelelő működését és az eszközök közötti stabil kapcsolatot.
