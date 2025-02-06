@@ -53,10 +53,10 @@ A DHCP szerver által kiosztott IP-címek kezeléséhez először el kell dobni 
 
 ### IP-cím eldobása  
 
-Parancs: `renew` 
+Parancs: `/release` 
 <details>
   
-![renew](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20105735.png)
+![renew]()
   
 </details>
 
