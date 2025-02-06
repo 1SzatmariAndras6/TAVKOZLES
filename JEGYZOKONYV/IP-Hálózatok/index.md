@@ -175,32 +175,61 @@ Parancs: `nslookup www.example.com`
 
 ## 13. Pingelések és tesztelések: 
 
+`Route tábla`
 <details>
   
 ![Route tábla](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20104649.png)
 
   <br>
+  
+</details>
 
+`router ping`
+
+<details>
+  
 ![router ping laptopról](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20104058.png)
-  <br>
+  
+</details>
 
+`Router SSID`
+<details>
+  
   ![Router SSID](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20103225.png)
   
   <br>
 
+</details>
+
+`Telefonos teszt`
+<details>
+  
   ![Telefonos teszt](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/1738834619808.jpg)
-  
-  <br>
 
+  </details>
+  <br>
+  
+`Fel/Letöltés`
+
+<details>
+  
   ![Fel/letöltés](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/1738834619823.jpg)
-  
+
+  </details>
   <br>
 
+``
+<details>
 
   ![](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/1738834619841.jpg)
-  
-  <br>
 
+  </details>
+  <br>
+  
+`Telefonos pingelés`
+
+<details>
+  
   ![Telefon pingelés](https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/IP-H%C3%A1l%C3%B3zatok/K%C3%A9perny%C5%91k%C3%A9p%202025-02-06%20102934.png)
   
 </details>
