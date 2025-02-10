@@ -21,14 +21,15 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 
 ## 3. Beállítások
 - **RF Vivőfrekvencia:** 880 MHz  
-  <img src="" alt="RF vivőfrekvencia beállítása" width="300"/>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR01.BMP" alt="RF vivőfrekvencia beállítása" width="300"/>
 
 - **Moduláló Jel:** 100 kHz szinuszjel  
-  <img src="" alt="Moduláló jel beállítása" width="300"/>
+  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" alt="Moduláló jel beállítása" width="300"/>
 
 ## 4. Moduláló jel átálítása
 - 900 Mhz frekvencián és 500kHz:
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR02.BMP" />
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" />
 
 ## 4. Mért Eredmények
 - **Jelszint mérése:**  
