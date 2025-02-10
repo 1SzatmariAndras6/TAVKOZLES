@@ -39,5 +39,8 @@
 - [IPTV](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/IPTV/)
 
 <br>
+
+- [Amplitúdómoduláció vizsgálata](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/Amplitudómoduláció vizsgálata/)
+
 ---
 
