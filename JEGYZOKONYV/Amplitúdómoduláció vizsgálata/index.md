@@ -29,6 +29,11 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
     
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" alt="Moduláló jel beállítása" width="500"/>
 
+100% modulációs mélység:
+
+
+63% modulációs mélység:
+
 ## 4. Moduláló jel átálítása
 - **RF Vivőfrekvencia:** 900 MHz
    
@@ -39,6 +44,10 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
   
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" width="500"/>
 
+100% modulációs mélység:
+
+
+63% modulációs mélység:
 
   ## 5. Eredmények Összegzése
 - **Összegzés:**
