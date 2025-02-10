@@ -33,12 +33,9 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 - **Moduláló Jel:** 500 kHz szinuszjel  
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" width="300"/>
 
-## 4. Mért Eredmények
+## 5. Mért Eredmények
 - **Jelszint mérése:**  
   <img src="" alt="Spektrumanalizátor jelszint mérés" width="300"/>
-
-- **Spektrumkép mentése és kiértékelése:**  
-  <img src="" alt="Spektrumkép mentése" width="300"/>
 
 - **Modulációs Mélység:**  
   - 100%  
@@ -47,11 +44,10 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
   - 63%  
     <img src="" alt="63% Modulációs mélység" width="300"/>
 
-- **Sávszélesség meghatározása:**  
-  <img src="" alt="Sávszélesség mérés" width="300"/>
 
+  ## 6. Eredmények Összegzése
+- **Összegzés:**
 
-  ## 5. Eredmények Összegzése
-- **Összegzés:**  
+  A spektrum elemzésével megfigyeltük, hogy a jelszint, a modulációs mélység és a sávszélesség változik a beállított paraméterek függvényében. A 100% modulációs mélységnél a jel amplitúdója maximálisan változott, míg a 63%-os beállításnál kisebb mértékű volt a moduláció.
 
   
