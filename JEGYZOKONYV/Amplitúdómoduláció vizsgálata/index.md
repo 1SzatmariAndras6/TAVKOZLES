@@ -21,6 +21,8 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 
 
 ## 3. Beállítások
+**Vpp:** 1.18V
+
 - **RF Vivőfrekvencia:** 880 MHz
   
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR01.BMP" alt="RF vivőfrekvencia beállítása" width="500"/>
@@ -29,12 +31,12 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
     
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" alt="Moduláló jel beállítása" width="500"/>
 
-100% modulációs mélység: 6(db)
-
-
-63% modulációs mélység:
+100% modulációs mélység: 6(dB)
 
 ## 4. Moduláló jel átálítása
+
+**Vpp:** 1.26V
+
 - **RF Vivőfrekvencia:** 900 MHz
    
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR02.BMP" width="500"/>
@@ -44,10 +46,9 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
   
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" width="500"/>
 
-100% modulációs mélység: 10.3(db)
+63% modulációs mélység: 10.3(dB)
 
 
-63% modulációs mélység:
 
   ## 5. Eredmények Összegzése
 - **Összegzés:**
