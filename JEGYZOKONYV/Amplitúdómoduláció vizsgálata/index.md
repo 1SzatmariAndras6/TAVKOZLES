@@ -24,7 +24,7 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR01.BMP" alt="RF vivőfrekvencia beállítása" width="300"/>
 
 - **Moduláló Jel:** 100 kHz szinuszjel  
-  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" alt="Moduláló jel beállítása" width="300"/>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" alt="Moduláló jel beállítása" width="300"/>
 
 ## 4. Moduláló jel átálítása
 - **RF Vivőfrekvencia:** 900 MHz  
