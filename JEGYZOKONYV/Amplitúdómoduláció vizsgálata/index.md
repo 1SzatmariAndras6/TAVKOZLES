@@ -23,7 +23,7 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 | RF wire 2              |  "ugyan az mint az előző"     | 2  | 800mm                        |
 | AC power cord          |       | 1  | 100-240V～50-60Hz            |
 | CD                     |       | 1  | User manual and software     |
-| Adapter                |<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/res_825e4e3f0b158de546c161ceb5b0b13d.webp" width="100" height="100" >       |N-SMA Adapter                |
+| Adapter                |<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/res_825e4e3f0b158de546c161ceb5b0b13d.webp" width="100" height="100" >       | |N-SMA Adapter                |
 | Student Textbook       |       | 1  | RF & Communication Trainer   |
 | Gwinstek Gsp-730       | <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/images.jfif" width="150" height="100">      | 3593.1764K02-102609-WG  |
 |Rohde&Swarz HMO1002| <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/hmo1002-hero-1200x735-White-b.jpg" width="150" height="100">| 2 csatornás, 200 MHz-es sávszélességgel|
