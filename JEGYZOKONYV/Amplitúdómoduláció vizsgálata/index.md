@@ -27,17 +27,17 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 
 - **Moduláló Jel:** 100 kHz szinuszjel
     
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" alt="Moduláló jel beállítása" height="500" width="500"/>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA04.PNG" alt="Moduláló jel beállítása" width="500"/>
 
 ## 4. Moduláló jel átálítása
 - **RF Vivőfrekvencia:** 900 MHz
    
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR02.BMP" height="500" width="500"/>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/SCR02.BMP" width="500"/>
   
   <br>
 - **Moduláló Jel:** 500 kHz szinuszjel
   
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" height="500" width="500"/>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" width="500"/>
 
 
   ## 5. Eredmények Összegzése
