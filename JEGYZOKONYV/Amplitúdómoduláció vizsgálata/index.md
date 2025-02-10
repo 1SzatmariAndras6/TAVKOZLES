@@ -21,7 +21,7 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 
 
 ## 3. Beállítások
-- **RF Vivőfrekvencia:** 880 MHz  
+- **RF Vivőfrekvencia:** 877.5 MHz  
   <img src="" alt="RF vivőfrekvencia beállítása" width="300"/>
 
 - **Moduláló Jel:** 100 kHz szinuszjel  
