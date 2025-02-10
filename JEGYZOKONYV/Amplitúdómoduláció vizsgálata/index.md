@@ -32,7 +32,7 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
   
   <br>
 - **Moduláló Jel:** 500 kHz szinuszjel  
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" height="500" width="300"/>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/Amplit%C3%BAd%C3%B3modul%C3%A1ci%C3%B3%20vizsg%C3%A1lata/TA03.PNG" height="500" width="500"/>
 
 
   ## 5. Eredmények Összegzése
