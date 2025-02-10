@@ -60,7 +60,7 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 
 ---
 
-  ## 5. Eredmények Összegzése
+## 5. Eredmények Összegzése
   
 - **Összegzés:**
 
