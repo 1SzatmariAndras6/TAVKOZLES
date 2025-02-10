@@ -40,7 +40,7 @@
 
 <br>
 
-- [Amplitúdómoduláció vizsgálata](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/Amplitudómoduláció vizsgálata/)
+- [Amplitúdómoduláció vizsgálata](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/Amplitúdómoduláció vizsgálata/)
 
 ---
 
