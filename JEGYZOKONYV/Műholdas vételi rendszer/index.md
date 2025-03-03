@@ -51,7 +51,7 @@
 
 <details>
   
-  - **Spektrum analizátor képe:** 
+**Spektrum analizátor képe:** 
   
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0001.bmp">
   
