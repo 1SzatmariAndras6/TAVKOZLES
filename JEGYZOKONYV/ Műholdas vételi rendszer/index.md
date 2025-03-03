@@ -12,9 +12,37 @@
 
 ## Antenna beállítása és műhold azonosítása:
 
-- Műhold: Minimax Pakistan	38.0°E	**Paksat 1R**
+- Műhold: 9.0°E		Wide	51	11958 V	DVB-S2	HD **Eutelsat 9B**
 
 
-Mérések és dokumentációk:
+
+# Mérések és dokumentációk:
+
+## Set-top box beállítása és csatornakeresés
+
+  ### Mérések és dokumentáció – Set-Top Box:
+
+- **Spektrum analizátor képe** (jelosztó után)
+- **Jelszintek és jelminőség**
+- **Transzponder adatok ellenőrzése**
+- **Kimenő feszültség az LNB-re**
+- **Polarizáció**
+- **Hőmérséklet, időjárás feljegyzése**
+
+  <img src=" ">
 
 
+# Jelszintmérés és dokumentáció
+
+  ### Mérési eredmények rögzítése a jegyzőkönyvben:
+
+- **Jelerősség:** (dBμV)  
+- **Jel-zaj viszony (SNR):** (dB)  
+- **Bit Error Rate (BER)**  
+- **Modulation Error Ratio (MER):** (dB)  
+- **Csillapítás:** (dB)  
+- **Lock állapot:** [ ] Igen [ ] Nem  
+- **Hőmérséklet és időjárási körülmények**  
+- **Transzponder adatok és frekvenciák**
+
+  <img src=" ">
