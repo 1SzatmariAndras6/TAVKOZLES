@@ -13,7 +13,8 @@
 ## Antenna beállítása és műhold azonosítása:
 
 - Műhold: 9.0°E		Wide	51	11958 V	DVB-S2	HD **Eutelsat 9B**
-  
+- fok : 192.05° & 35.32°
+
 <details>
   
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/asd1.png">
@@ -40,14 +41,15 @@
 
   ### Mérési eredmények rögzítése a jegyzőkönyvben:
 
-- **Jelerősség:** (dBμV)  
-- **Jel-zaj viszony (SNR):** (dB)  
-- **Bit Error Rate (BER)**  
-- **Modulation Error Ratio (MER):** (dB)  
+- **Jelerősség:** (74.9dBμV)  
+- **Jel-zaj viszony (SNR):** (5.2dB)  
+- **Bit Error Rate (BER)**  2,73
+- **Modulation Error Ratio (MER):** (12dB)  
 - **Csillapítás:** (dB)  
 - **Lock állapot:** [ ] Igen [ ] Nem  
 - **Hőmérséklet és időjárási körülmények**  
-- **Transzponder adatok és frekvenciák**
+- **Transzponder adatok és frekvenciák** Frekvencia: 1358MHz
+
 
 <details>
   
