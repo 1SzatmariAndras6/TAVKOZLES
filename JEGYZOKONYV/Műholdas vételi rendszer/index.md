@@ -25,7 +25,7 @@
 
 ## Set-top box beállítása és csatornakeresés
 
-  ### Mérések és dokumentáció – Set-Top Box:
+   Mérések és dokumentáció – Set-Top Box:
 
 - **Spektrum analizátor képe:** (jelosztó után)
 - **Jelszintek és jelminőség:**
@@ -39,7 +39,7 @@
 
 # Jelszintmérés és dokumentáció
 
-  ### Mérési eredmények rögzítése a jegyzőkönyvben:
+   Mérési eredmények rögzítése a jegyzőkönyvben:
 
 - **Jelerősség:** (74.9dBμV)  
 - **Jel-zaj viszony (SNR):** (5.2dB)  
