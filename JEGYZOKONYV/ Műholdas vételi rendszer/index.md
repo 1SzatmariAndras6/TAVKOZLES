@@ -17,7 +17,7 @@
 
 <details>
   
-<img src="">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/K%C3%A9perny%C5%91k%C3%A9p%202025-03-03%20123425.png">
 
 </details>
 
