@@ -46,5 +46,6 @@
 
 - [Műholdas vételi rendszer](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/Műholdas vételi rendszer/)
 
+<br>
 ---
 
