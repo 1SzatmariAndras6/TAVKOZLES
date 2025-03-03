@@ -53,8 +53,10 @@
   
   - **Spektrum analizátor képe:** 
   
-  ![its_snapshot_0001](https://github.com/user-attachments/assets/fad50325-1d82-4add-a4d7-ed26b03b2212)
-
-  ![its_snapshot_0002](https://github.com/user-attachments/assets/4f84765f-4dc4-46af-b5f7-f808565e68a6)
-
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0001.bmp">
+  
+  <br>
+  
+   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0002.bmp">
+   
 </details>
