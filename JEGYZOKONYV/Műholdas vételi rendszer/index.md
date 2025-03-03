@@ -17,7 +17,7 @@
 
 <details>
   
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/K%C3%A9perny%C5%91k%C3%A9p%202025-03-03%20123425.png">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/K%C3%A9perny%C5%91k%C3%A9p%202025-03-03%20123425.png">
 
 </details>
 
@@ -33,8 +33,6 @@
 - **Kimenő feszültség az LNB-re:** 13V 
 - **Polarizáció:** függőleges
 
-
-  <img src=" ">
 
 
 # Jelszintmérés és dokumentáció
@@ -54,7 +52,9 @@
 <details>
   
   - **Spektrum analizátor képe:** 
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0001.bmp">
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0002.bmp">
   
+  ![its_snapshot_0001](https://github.com/user-attachments/assets/fad50325-1d82-4add-a4d7-ed26b03b2212)
+
+  ![its_snapshot_0002](https://github.com/user-attachments/assets/4f84765f-4dc4-46af-b5f7-f808565e68a6)
+
 </details>
