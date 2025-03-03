@@ -13,9 +13,12 @@
 ## Antenna beállítása és műhold azonosítása:
 
 - Műhold: 9.0°E		Wide	51	11958 V	DVB-S2	HD **Eutelsat 9B**
+- 
+<details>
+  
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/asd1.png">
 
-
-
+</details>
 # Mérések és dokumentációk:
 
 ## Set-top box beállítása és csatornakeresés
@@ -45,4 +48,9 @@
 - **Hőmérséklet és időjárási körülmények**  
 - **Transzponder adatok és frekvenciák**
 
-  <img src=" ">
+<details>
+  
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0001.bmp">
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0002.bmp">
+  
+</details>
