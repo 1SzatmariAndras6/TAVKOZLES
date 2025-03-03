@@ -27,12 +27,12 @@
 
   ### Mérések és dokumentáció – Set-Top Box:
 
-- **Spektrum analizátor képe** (jelosztó után)
-- **Jelszintek és jelminőség**
-- **Transzponder adatok ellenőrzése**
-- **Kimenő feszültség az LNB-re**
-- **Polarizáció**
-- **Hőmérséklet, időjárás feljegyzése**
+- **Spektrum analizátor képe:** (jelosztó után)
+- **Jelszintek és jelminőség:**
+- **Transzponder adatok ellenőrzése:**
+- **Kimenő feszültség az LNB-re:**
+- **Polarizáció:**
+- **Hőmérséklet, időjárás feljegyzése:**
 
   <img src=" ">
 
@@ -46,9 +46,9 @@
 - **Bit Error Rate (BER)**  2,73
 - **Modulation Error Ratio (MER):** (12dB)  
 - **Csillapítás:** (dB)  
-- **Lock állapot:** [ ] Igen [ ] Nem  
-- **Hőmérséklet és időjárási körülmények**  
-- **Transzponder adatok és frekvenciák** Frekvencia: 1358MHz
+- **Lock állapot:** Nem  
+- **Hőmérséklet és időjárási körülmények**  8 °C, Napos
+- **Transzponder adatok és frekvenciák:** 1358MHz
 
 
 <details>
