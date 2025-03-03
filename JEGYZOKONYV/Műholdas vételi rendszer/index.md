@@ -27,12 +27,12 @@
 
    Mérések és dokumentáció – Set-Top Box:
 
-- **Spektrum analizátor képe:** (jelosztó után)
-- **Jelszintek és jelminőség:**
-- **Transzponder adatok ellenőrzése:**
-- **Kimenő feszültség az LNB-re:**
-- **Polarizáció:**
-- **Hőmérséklet, időjárás feljegyzése:**
+
+- **Jelszintek és jelminőség:** L89% Q87%
+- **Transzponder adatok ellenőrzése:** 
+- **Kimenő feszültség az LNB-re:** 13V 
+- **Polarizáció:** függőleges
+
 
   <img src=" ">
 
@@ -53,6 +53,7 @@
 
 <details>
   
+  - **Spektrum analizátor képe:** 
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0001.bmp">
   <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/%20M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0002.bmp">
   
