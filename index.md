@@ -2,8 +2,7 @@
 
 ---
 
-      
-
+  
 - [03 Mérés - Antennák teljesítménye](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/03. - Antenna mérési feladat/)
   
   <br>
