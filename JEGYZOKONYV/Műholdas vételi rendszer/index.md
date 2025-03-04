@@ -45,6 +45,7 @@ Astra 2G → 62 Ku-sávos + 4 Ka-sávos transzponder
 <details>
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0008.bmp">
+<br>
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0007.bmp">
 
 </details>
@@ -60,7 +61,7 @@ Jelszintmérés és dokumentáció
 - **Csillapítás:** (dB)  
 - **Lock állapot:** Nem/igen
 - **Hőmérséklet és időjárási körülmények**  2 °C, Napos
-- **Transzponder adatok és frekvenciák:** 1MHz
+- **Transzponder adatok és frekvenciák:** 1720MHz
   
 <details>
   
@@ -71,7 +72,6 @@ Jelszintmérés és dokumentáció
 ## 2.Set-top box beállítása és csatornakeresés
 
    Mérések és dokumentáció – Set-Top Box:
-
 
 - **Jelszintek és jelminőség:** L89% Q87%
 - **Transzponder adatok ellenőrzése:** 
@@ -91,7 +91,6 @@ Jelszintmérés és dokumentáció
 - **Lock állapot:** Nem/igen
 - **Hőmérséklet és időjárási körülmények**  8 °C, Napos
 - **Transzponder adatok és frekvenciák:** 1358MHz
-
 
 <details>
   
