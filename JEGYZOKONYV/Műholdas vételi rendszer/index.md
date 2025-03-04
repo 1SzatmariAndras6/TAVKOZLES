@@ -14,7 +14,9 @@
 
 - Műhold: 9.0°E		Wide	51	11958 V	DVB-S2	HD **Eutelsat 9B**
 - fok : 192.05° & 35.32°
-
+  
+- 10714 HSR 22000FEC 2/3Modulation DVB-S2 8PSKSatellite Astra 1MBeam Europe Ku-band beamNID 1
+  
 <details>
   
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/K%C3%A9perny%C5%91k%C3%A9p%202025-03-03%20123425.png">
@@ -22,8 +24,30 @@
 </details>
 
 # Mérések és dokumentációk:
+   Mérések és dokumentáció – Set-Top Box:
 
-## Set-top box beállítása és csatornakeresés
+- **Jelszintek és jelminőség:** 80.2dB, SNR:99% AGC:97%
+- **Transzponder adatok ellenőrzése:**
+  Transzponderek száma
+Az egyes műholdak transzponderkapacitása:
+
+Astra 2E → 60 Ku-sávos + 4 Ka-sávos transzponder
+Astra 2F → 48 Ku-sávos + 6 Ka-sávos transzponder
+Astra 2G → 62 Ku-sávos + 4 Ka-sávos transzponder
+
+Összesen tehát akár 170+ transzponder is lehet aktív a 28,2°E pozícióban, de a ténylegesen használt transzponderek száma változhat az üzemeltetési igények és a műholdkapacitás alapján.
+
+- **Kimenő feszültség az LNB-re:**  13V
+- **Polarizáció:** függőleges
+
+<details>
+
+<img src="">
+<img src="">
+
+</details>
+  
+## 2.Set-top box beállítása és csatornakeresés
 
    Mérések és dokumentáció – Set-Top Box:
 
@@ -44,7 +68,7 @@
 - **Bit Error Rate (BER)**  2,73
 - **Modulation Error Ratio (MER):** (12dB)  
 - **Csillapítás:** (dB)  
-- **Lock állapot:** Nem  
+- **Lock állapot:** Nem/igen
 - **Hőmérséklet és időjárási körülmények**  8 °C, Napos
 - **Transzponder adatok és frekvenciák:** 1358MHz
 
