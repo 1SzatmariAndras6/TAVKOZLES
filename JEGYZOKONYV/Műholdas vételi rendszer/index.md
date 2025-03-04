@@ -20,11 +20,13 @@
 <details>
   
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/K%C3%A9perny%C5%91k%C3%A9p%202025-03-03%20123425.png">
+<br>
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/1741075035422.jpg">
 
 </details>
 
 # Mérések és dokumentációk:
-   Mérések és dokumentáció – Set-Top Box:
+   1.Mérések és dokumentáció – Set-Top Box:
 
 - **Jelszintek és jelminőség:** 80.2dB, SNR:99% AGC:97%
 - **Transzponder adatok ellenőrzése:**
@@ -42,10 +44,25 @@ Astra 2G → 62 Ku-sávos + 4 Ka-sávos transzponder
 
 <details>
 
-<img src="">
-<img src="">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0008.bmp">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0007.bmp">
 
 </details>
+
+Jelszintmérés és dokumentáció
+
+  1.Mérési eredmények rögzítése a jegyzőkönyvben:
+
+- **Jelerősség:** (88.0dBμV)  
+- **Jel-zaj viszony (SNR):** (6.5dB)  
+- **Bit Error Rate (BER)**  7.07
+- **Modulation Error Ratio (MER):** (13.3dB)  
+- **Csillapítás:** (dB)  
+- **Lock állapot:** Nem/igen
+- **Hőmérséklet és időjárási körülmények**  2 °C, Napos
+- **Transzponder adatok és frekvenciák:** 1MHz
+
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0009.bmp">
   
 ## 2.Set-top box beállítása és csatornakeresés
 
@@ -58,8 +75,7 @@ Astra 2G → 62 Ku-sávos + 4 Ka-sávos transzponder
 - **Polarizáció:** függőleges
 
 
-
-# Jelszintmérés és dokumentáció
+# 2.Jelszintmérés és dokumentáció
 
    Mérési eredmények rögzítése a jegyzőkönyvben:
 
