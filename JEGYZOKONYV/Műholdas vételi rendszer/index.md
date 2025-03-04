@@ -61,8 +61,12 @@ Jelszintmérés és dokumentáció
 - **Lock állapot:** Nem/igen
 - **Hőmérséklet és időjárási körülmények**  2 °C, Napos
 - **Transzponder adatok és frekvenciák:** 1MHz
-
+  
+<details>
+  
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0009.bmp">
+
+  </details>
   
 ## 2.Set-top box beállítása és csatornakeresés
 
