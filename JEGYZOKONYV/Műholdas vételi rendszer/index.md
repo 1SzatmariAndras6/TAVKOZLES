@@ -25,7 +25,7 @@
 
 </details>
 
-# Mérések és dokumentációk:
+## Mérések és dokumentációk:
    1.Mérések és dokumentáció – Set-Top Box:
 
 - **Jelszintek és jelminőség:** 80.2dB, SNR:99% AGC:97%
@@ -45,7 +45,7 @@ Astra 2G → 62 Ku-sávos + 4 Ka-sávos transzponder
 <details>
 
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0008.bmp">
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0007.bmp">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1holdas%20v%C3%A9teli%20rendszer/its_snapshot_0007.bmp" height="150" width="150">
 
 </details>
 
@@ -75,7 +75,7 @@ Jelszintmérés és dokumentáció
 - **Polarizáció:** függőleges
 
 
-# 2.Jelszintmérés és dokumentáció
+## 2.Jelszintmérés és dokumentáció
 
    Mérési eredmények rögzítése a jegyzőkönyvben:
 
