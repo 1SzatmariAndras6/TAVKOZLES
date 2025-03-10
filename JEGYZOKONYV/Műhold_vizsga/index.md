@@ -10,4 +10,46 @@
   
 ---
 
+## Szükséges eszközök:
 
+- **Parabolaantenna:** D80 Mesh hálós acél parabola antenna (tripodra szerelve)
+- **Műholdvevő fej (LNB):** A vizsgázó maga választja ki az elérhető Inverto ULTRA vagy Ekselans SATCR LNB-k közül
+- **Set-top box:** Amiko HD 8265+
+- **Mérőműszer:** METEK HDD műholdas jelmérő
+- **Koaxiális kábelek és csatlakozók (már előkészítve egy másik vizsgafeladat során)**
+- **Jelosztó:** 2-es műholdas jelosztó a mérési pontok kialakításához
+- **Szerelési eszközök:** csavarhúzó, villáskulcs, iránytű, dőlésszögmérő
+
+## Antenna beállítása és műhold azonosítása:
+
+- Műhold:	0.8°W	T2	52	12130 H	DVB-S	SD  **Thor 5** 12130 H 	28000
+7/8
+
+<details>
+  
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/K%C3%A9perny%C5%91k%C3%A9p%202025-03-10%20125418.png" height="500" width="800">
+<br>
+
+</details>
+
+
+## Jelszintmérés és dokumentáció
+
+  1.Mérési eredmények rögzítése a jegyzőkönyvben:
+
+- **Jelerősség:** (dBμV)  
+- **Jel-zaj viszony (SNR):** (dB)  
+- **Bit Error Rate (BER)** 
+- **Modulation Error Ratio (MER):** (dB)  
+- **Csillapítás:** (dB)  
+- **Lock állapot:** Nem/igen
+- **Hőmérséklet és időjárási körülmények**   19°C, Napos
+- **Transzponder adatok és frekvenciák:**
+
+ ## Mérések és dokumentáció – Set-Top Box:
+
+- **Jelszintek és jelminőség:** dB, SNR:% AGC:%
+- **Transzponder adatok ellenőrzése:**
+  
+
+  
