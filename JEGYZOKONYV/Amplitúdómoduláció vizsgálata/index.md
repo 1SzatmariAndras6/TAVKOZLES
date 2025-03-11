@@ -69,4 +69,8 @@ A feladat célja az amplitúdómoduláció (AM) előállítása és vizsgálata 
 
   A spektrum elemzésével megfigyeltük, hogy a jelszint, a modulációs mélység és a sávszélesség változik a beállított paraméterek függvényében. A 100% modulációs mélységnél a jel amplitúdója maximálisan változott, míg a 63%-os beállításnál kisebb mértékű volt a moduláció.
 
+
+![its_snapshot_0001](https://github.com/user-attachments/assets/6c54cf4d-a408-4ced-ac01-958ea807382f)
+
+
 ---
