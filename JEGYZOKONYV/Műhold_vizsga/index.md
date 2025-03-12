@@ -62,9 +62,9 @@
   
 <details>  
 
-  <img src="">
+  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/M%C5%B1hold_vizsga/1741779707761.jpg">
   <br>  
-  <img src="">
+  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/M%C5%B1hold_vizsga/1741779707780.jpg">
 
 
 </details>
