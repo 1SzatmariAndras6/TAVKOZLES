@@ -47,7 +47,7 @@
 
 <br>
 
-- [Műhold_vizsga]((https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/Műhold_vizsga/)
+- [Műhold_vizsga](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/Műhold_vizsga/)
 
 <br>
 
