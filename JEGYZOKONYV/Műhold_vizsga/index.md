@@ -46,10 +46,10 @@
 - **Transzponder adatok és frekvenciák:** 1530MHz ; 12130H28000
 
 <details>  
-
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/its_snapshot_0001.bmp">
+ 
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/its_snapshot_0001.bmp">   
   <br>
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/its_snapshot_0002.bmp">
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/its_snapshot_0002.bmp">   
 
 </details>   
 
@@ -60,11 +60,11 @@
 - **Jelszintek és jelminőség:** dB, SNR 100% AGC:55%    
 - **Transzponder adatok ellenőrzése:**   
   
-<details>  
+<details>    
 
-  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/M%C5%B1hold_vizsga/1741779707761.jpg">
+  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/M%C5%B1hold_vizsga/1741779707761.jpg">   
   <br>  
-  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/M%C5%B1hold_vizsga/1741779707780.jpg">
+  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/M%C5%B1hold_vizsga/1741779707780.jpg">   
 
 
 </details>
