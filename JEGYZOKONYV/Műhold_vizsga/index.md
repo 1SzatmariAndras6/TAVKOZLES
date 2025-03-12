@@ -38,7 +38,7 @@
 
 - **Jelerősség:** (dBμV)  
 - **Jel-zaj viszony (SNR):** (0.6dB)  
-- **Bit Error Rate (BER)** 1.10
+- **Bit Error Rate (BER)** 0 (nem mért)
 - **Modulation Error Ratio (MER):** (8.1dB)  
 - **Csillapítás:** (dB)  
 - **Lock állapot:** igen
