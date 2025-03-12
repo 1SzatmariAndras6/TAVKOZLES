@@ -61,7 +61,7 @@
 - **Jelszintek és jelminőség:** dB, SNR 100% AGC:55%
 - **Transzponder adatok ellenőrzése:**
   
-  <details>
+<details>
   
 ![1741779707780](https://github.com/user-attachments/assets/da70fb82-9d8a-4531-8b09-6557c0815916)
 
