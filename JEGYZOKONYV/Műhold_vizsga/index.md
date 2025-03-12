@@ -45,26 +45,29 @@
 - **Hőmérséklet és időjárási körülmények**   19°C, Napos
 - **Transzponder adatok és frekvenciák:** 1530MHz ; 12130H28000
 
-<details>
+<details>  
+
   
-![its_snapshot_0001](https://github.com/user-attachments/assets/c8054127-68dc-47cb-946d-4430bc7e193b)    
+![its_snapshot_0001](https://github.com/user-attachments/assets/c8054127-68dc-47cb-946d-4430bc7e193b)     
 
-![its_snapshot_0002](https://github.com/user-attachments/assets/6792a882-da8c-4015-9dd4-ae39a9b232a1)   
+![its_snapshot_0002](https://github.com/user-attachments/assets/6792a882-da8c-4015-9dd4-ae39a9b232a1)    
 
-</details>
+</details>   
 
 
 
-## Mérések és dokumentáció – Set-Top Box:  
+## Mérések és dokumentáció – Set-Top Box:   
 
-- **Jelszintek és jelminőség:** dB, SNR 100% AGC:55%  
-- **Transzponder adatok ellenőrzése:**  
+- **Jelszintek és jelminőség:** dB, SNR 100% AGC:55%    
+- **Transzponder adatok ellenőrzése:**   
   
-<details>
-  
-![1741779707780](https://github.com/user-attachments/assets/da70fb82-9d8a-4531-8b09-6557c0815916)  
+<details>  
 
-![1741779707761](https://github.com/user-attachments/assets/14794122-677b-4056-8db6-db0d7912eb72)  
+<summary>Set top box képek</summary>   
+  
+![1741779707780](https://github.com/user-attachments/assets/da70fb82-9d8a-4531-8b09-6557c0815916)    
+
+![1741779707761](https://github.com/user-attachments/assets/14794122-677b-4056-8db6-db0d7912eb72)    
 
 </details>
   
