@@ -3,7 +3,7 @@
 ---
 
 - **Mérés helye**: V3 labor, hátsó udvar
-- **Mérés időpontja**: 2025.03.10
+- **Mérés időpontja**: 2025.03.12
 - **Felelős személy**: Szatmári András
   
 - **Cél**: A feladat egy műholdas vételi rendszer kiépítése, egy szabadon fogható (FTA) csatorna beállítása, valamint a jelszint mérése és dokumentálása. A műhold kiválasztása internetes adatbázisból történik, az azonosítást és finomhangolást METEK HDD műszerrel kell elvégezni. A jelet a villamos 3 laborba kell továbbítani, ahol a set-top boxhoz csatlakozik.
@@ -27,7 +27,7 @@
 
 <details>
   
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/K%C3%A9perny%C5%91k%C3%A9p%202025-03-10%20125418.png" height="100" width="800">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/K%C3%A9perny%C5%91k%C3%A9p%202025-03-10%20125418.png" height="80" width="900">
 <br>
 
 </details>
@@ -38,18 +38,29 @@
   1.Mérési eredmények rögzítése a jegyzőkönyvben:
 
 - **Jelerősség:** (dBμV)  
-- **Jel-zaj viszony (SNR):** (dB)  
-- **Bit Error Rate (BER)** 
-- **Modulation Error Ratio (MER):** (dB)  
+- **Jel-zaj viszony (SNR):** (0.6dB)  
+- **Bit Error Rate (BER)** 1.10
+- **Modulation Error Ratio (MER):** (8.1dB)  
 - **Csillapítás:** (dB)  
-- **Lock állapot:** Nem/igen
+- **Lock állapot:** igen
 - **Hőmérséklet és időjárási körülmények**   19°C, Napos
-- **Transzponder adatok és frekvenciák:**
+- **Transzponder adatok és frekvenciák:** 1530MHz ; 12130H28000
+
+![its_snapshot_0001](https://github.com/user-attachments/assets/c8054127-68dc-47cb-946d-4430bc7e193b)
+
+![its_snapshot_0002](https://github.com/user-attachments/assets/6792a882-da8c-4015-9dd4-ae39a9b232a1)
+
+
+
+
 
  ## Mérések és dokumentáció – Set-Top Box:
 
-- **Jelszintek és jelminőség:** dB, SNR:% AGC:%
+- **Jelszintek és jelminőség:** dB, SNR 100% AGC:55%
 - **Transzponder adatok ellenőrzése:**
   
+![1741779707780](https://github.com/user-attachments/assets/da70fb82-9d8a-4531-8b09-6557c0815916)
+
+![1741779707761](https://github.com/user-attachments/assets/14794122-677b-4056-8db6-db0d7912eb72)
 
   
