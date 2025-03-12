@@ -9,8 +9,7 @@
 - **Cél**: A feladat egy műholdas vételi rendszer kiépítése, egy szabadon fogható (FTA) csatorna beállítása, valamint a jelszint mérése és dokumentálása. A műhold kiválasztása internetes adatbázisból történik, az azonosítást és finomhangolást METEK HDD műszerrel kell elvégezni. A jelet a villamos 3 laborba kell továbbítani, ahol a set-top boxhoz csatlakozik.
   
 ---
-![1741779707761 (3)](https://github.com/user-attachments/assets/4b1e79c1-eb09-4298-9a07-6e3f4b98ab27)
-![1741779707780 (2)](https://github.com/user-attachments/assets/e7fd6fc9-b588-4378-9f57-af2dc368e353)
+
 
 ## Szükséges eszközök:  
 
