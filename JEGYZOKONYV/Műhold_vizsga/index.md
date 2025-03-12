@@ -10,6 +10,7 @@
   
 ---
 ![1741779707761 (3)](https://github.com/user-attachments/assets/4b1e79c1-eb09-4298-9a07-6e3f4b98ab27)
+![1741779707780 (2)](https://github.com/user-attachments/assets/e7fd6fc9-b588-4378-9f57-af2dc368e353)
 
 ## Szükséges eszközök:  
 
@@ -65,7 +66,7 @@
 
   <img src="https://github.com/user-attachments/assets/4b1e79c1-eb09-4298-9a07-6e3f4b98ab27">   
   <br>  
-  <img src="https://github.com/1SzatmariAndras6/TAVKOZLES/blob/main/JEGYZOKONYV/M%C5%B1hold_vizsga/1741779707780.jpg">   
+  <img src="https://github.com/user-attachments/assets/e7fd6fc9-b588-4378-9f57-af2dc368e353">   
 
 
 </details>
