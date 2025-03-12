@@ -48,9 +48,9 @@
 
 <details>
   
-![its_snapshot_0001](https://github.com/user-attachments/assets/c8054127-68dc-47cb-946d-4430bc7e193b)
+![its_snapshot_0001](https://github.com/user-attachments/assets/c8054127-68dc-47cb-946d-4430bc7e193b)   
 
-![its_snapshot_0002](https://github.com/user-attachments/assets/6792a882-da8c-4015-9dd4-ae39a9b232a1)
+![its_snapshot_0002](https://github.com/user-attachments/assets/6792a882-da8c-4015-9dd4-ae39a9b232a1)   
 
 </details>
 
