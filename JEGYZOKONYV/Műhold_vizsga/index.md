@@ -27,7 +27,7 @@
 
 <details>
   
-<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/K%C3%A9perny%C5%91k%C3%A9p%202025-03-10%20125418.png" height="500" width="800">
+<img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/K%C3%A9perny%C5%91k%C3%A9p%202025-03-10%20125418.png" height="100" width="800">
 <br>
 
 </details>
