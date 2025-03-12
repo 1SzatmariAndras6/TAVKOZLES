@@ -30,6 +30,7 @@
   
 <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/K%C3%A9perny%C5%91k%C3%A9p%202025-03-10%20125418.png" height="80" width="900">
 <br>
+<img src="https://github.com/user-attachments/assets/1a12ff81-03c2-4839-a1fe-a16150c442f1">
 
 </details>
 
