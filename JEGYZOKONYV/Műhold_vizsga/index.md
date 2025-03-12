@@ -47,8 +47,9 @@
 
 <details>  
 
-  
-
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/its_snapshot_0001.bmp">
+  <br>
+  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/M%C5%B1hold_vizsga/its_snapshot_0002.bmp">
 
 </details>   
 
@@ -60,7 +61,10 @@
 - **Transzponder adatok ellenőrzése:**   
   
 <details>  
-  
+
+  <img src="">
+  <br>  
+  <img src="">
 
 
 </details>
