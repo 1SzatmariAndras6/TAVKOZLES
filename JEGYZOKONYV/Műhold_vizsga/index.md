@@ -55,7 +55,7 @@
 
 
 
- ## Mérések és dokumentáció – Set-Top Box:  
+## Mérések és dokumentáció – Set-Top Box:  
 
 - **Jelszintek és jelminőség:** dB, SNR 100% AGC:55%  
 - **Transzponder adatok ellenőrzése:**  
