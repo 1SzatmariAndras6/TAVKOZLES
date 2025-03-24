@@ -84,3 +84,26 @@
 
 
 </details>
+
+
+### Műholdas antenna telepítése családi házra vagy társasházra
+
+1. **Hol helyezném el?**
+   - A tetőn, lehetőleg a ház déli oldalán, mert itt van a legjobb rálátás a műholdakra. Fontos, hogy ne legyenek akadályok (pl. fák, más házak).
+
+2. **Miért a tetőn?**
+   - A tető biztosítja a legjobb rálátást a műholdakra, mivel nem akadályozzák falak vagy ablakok.
+
+3. **Hogyan állítom be az antennát?**
+   - Iránytűt vagy műholdas iránykereső alkalmazást használok, hogy megtaláljam a pontos irányt és beállítsam a megfelelő dőlésszöget. A helyes beállítás biztosítja a legjobb jelet.
+
+4. **Rögzítés?**
+   - Erős fém konzolt használok, és az antennát szilárdan rögzítem a tetőre vagy egy oszlopra, hogy ne mozogjon szélben.
+
+5. **Időjárás?**
+   - Az antennát úgy kell rögzíteni, hogy erős szélben és hóesésben is stabil maradjon. Esetleg védelmet is biztosítok a jég ellen, például fedéllel.
+
+6. **Koaxiális kábel?**
+   - Minél rövidebb kábel a jobb, de ha hosszú kábelre van szükség, vastagabb vezetéket vagy jel erősítőt használok, hogy csökkentsem a jelveszteséget.
+
+
