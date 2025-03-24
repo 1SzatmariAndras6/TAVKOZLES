@@ -67,18 +67,16 @@
 
 <details>  
 
-
-![Táblázat](https://github.com/user-attachments/assets/887ae27e-9a02-4d76-aa6a-c44c4f3e466d)  
-
-
-![CSillapítás](https://github.com/user-attachments/assets/ea3f0a32-1bea-41ba-85b2-f44f441610ea)  
+<img src="https://github.com/user-attachments/assets/887ae27e-9a02-4d76-aa6a-c44c4f3e466d">
 
 
-![Noise MArgin](https://github.com/user-attachments/assets/70f5c5d5-97ab-4bfc-9730-a98352770a92)  
+<img src="https://github.com/user-attachments/assets/ea3f0a32-1bea-41ba-85b2-f44f441610ea"> 
 
 
-![MER](https://github.com/user-attachments/assets/162abaf0-b073-4aac-8839-5e96f9699305)  
+<img src="https://github.com/user-attachments/assets/70f5c5d5-97ab-4bfc-9730-a98352770a92">
 
+
+<img src="https://github.com/user-attachments/assets/162abaf0-b073-4aac-8839-5e96f9699305">
 
 </details>  
 
