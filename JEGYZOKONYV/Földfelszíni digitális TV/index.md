@@ -1,5 +1,6 @@
 ## B tétel: Földfelszíni digitális TV vételi rendszer telepítése, konfigurálása és mérése
 
+---
 
 ### 1. Szükséges eszközök:
 - **Antenna:** Beltéri vagy kültéri antenna (a vizsgázó választása alapján)
@@ -9,6 +10,7 @@
 - **Jelosztó:** Jelosztó a mérési pontok kialakításához
 - **Szerelési eszközök:** Iránytű, maps.google.com
 
+---
 
 ## Set-top box beállítása és csatornakeresés:
 
@@ -24,7 +26,7 @@
 
 </details>
 
-
+---
 
 ## Jelszintmérés és dokumentáció:
 
@@ -64,7 +66,7 @@
 
 
 
-
+---
 
 ## Mérési eredmények rögzítése a jegyzőkönyvben:
 
@@ -85,6 +87,7 @@
 
 </details>
 
+---
 
 ### Műholdas antenna telepítése családi házra vagy társasházra
 
@@ -107,3 +110,4 @@
    - Minél rövidebb kábel a jobb, de ha hosszú kábelre van szükség, vastagabb vezetéket vagy jel erősítőt használok, hogy csökkentsem a jelveszteséget.
 
 
+---
