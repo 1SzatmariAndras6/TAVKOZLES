@@ -51,5 +51,9 @@
 
 <br>
 
+- [Földfelszíni digitális TV](https://1szatmariandras6.github.io/TAVKOZLES/JEGYZOKONYV/Földfelszíni digitális TV/)
+
+<br>
+
 ---
 
