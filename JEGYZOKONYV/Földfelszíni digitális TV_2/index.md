@@ -1,4 +1,4 @@
-
+                                
 # Földfelszíni digitális TV vételi rendszer telepítése, konfigurálása és mérése
 
 ---
@@ -69,17 +69,16 @@
 
 <details>  
 
-
-<img src="">
-
-
-<img src=""> 
+<img src="https://github.com/user-attachments/assets/b9d7e8c7-48f0-481b-8a75-95e0bf068c0e">
 
 
-<img src="">
+<img src="https://github.com/user-attachments/assets/3c174b70-2516-4546-a361-596e07cabc3e"> 
 
 
-<img src="">
+<img src="https://github.com/user-attachments/assets/0b781c97-27dd-4076-886a-890cc9b6cc08">
+
+
+<img src="https://github.com/user-attachments/assets/0c02a6bb-60e5-479e-85d8-082dc9ce2a97">
 
 
 </details>  
