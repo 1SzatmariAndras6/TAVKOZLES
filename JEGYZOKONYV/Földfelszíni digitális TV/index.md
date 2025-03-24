@@ -17,11 +17,10 @@
 <details>  
 
   
-![1742812684618](https://github.com/user-attachments/assets/591c4304-ef40-4a67-bed4-5fd3b679d0fd)  
+<img src="https://github.com/user-attachments/assets/591c4304-ef40-4a67-bed4-5fd3b679d0fd">
 
 
-
-![1742812684603](https://github.com/user-attachments/assets/49d0011a-24d6-4854-a265-24a85986ac96)  
+<img src="https://github.com/user-attachments/assets/49d0011a-24d6-4854-a265-24a85986ac96">
 
 
 </details>  
