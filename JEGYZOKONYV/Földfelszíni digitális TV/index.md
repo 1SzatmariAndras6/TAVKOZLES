@@ -3,7 +3,7 @@
 ---
 
 ### 1. Szükséges eszközök:
-- **Antenna:** Beltéri vagy kültéri antenna (a vizsgázó választása alapján)
+- **Antenna:** Beltéri vagy kültéri antenna 
 - **Set-top box:** Amiko HD8265+ vagy Nytro Box
 - **Mérőműszer:** METEK HDD digitális TV jelmérő
 - **Koaxiális kábelek és csatlakozók**
