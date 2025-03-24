@@ -62,10 +62,6 @@
 - Elsődleges veszélyforrások: villámlás, szélerősödés, jégeső.
 
 
-
-
-
-
 ---
 
 ## Mérési eredmények rögzítése a jegyzőkönyvben:
