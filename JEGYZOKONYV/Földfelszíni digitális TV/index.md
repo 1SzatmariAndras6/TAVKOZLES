@@ -34,6 +34,24 @@
 | E48      | 690              | 4,1       | multiplex E     | H    | 58      | ND    
 
 
+- ​A mai napon, március 24-én, Miskolc területén az alábbi időjárási körülmények voltak megfigyelhetők:​
+
+Jelenlegi állapot: Eső, 10°C (49°F).​
+
+Napi előrejelzés:
+Képződő záporok várhatók.​
+Időkép
+
+Magasabb nappali hőmérséklet: 13°C (56°F).​
+Kiderül.hu
+
+Alacsonyabb éjszakai hőmérséklet: 6°C (42°F).​
+
+Figyelmeztetések:
+
+Sárga figyelmeztetés van érvényben heves zivatarok és köd miatt, melyek március 24-én 23:59-ig, illetve március 25-én 0:00-tól 23:59-ig tartanak.​
+
+Elsődleges veszélyforrások: villámlás, szélerősödés, jégeső.
 
 
 
