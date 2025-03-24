@@ -1,4 +1,4 @@
-## B tétel: Földfelszíni digitális TV vételi rendszer telepítése, konfigurálása és mérése
+# Földfelszíni digitális TV vételi rendszer telepítése, konfigurálása és mérése
 
 ---
 
